@@ -1,0 +1,23 @@
+<!doctype html><html lang="sv"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Våra SAS-filmer</title>
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)"><meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="SAS-filmer">
+<link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="icons/apple-touch-icon.png"><link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="app.css"></head><body>
+<header class="top"><div class="tt"><h1>Våra SAS-filmer</h1><p class="sub">Inför vårt flyg över Atlanten 12 november 2026</p></div>
+<nav class="seg" role="tablist"><button data-tab="kat" class="on">Kategorier</button><button data-tab="alla">Alla</button><button data-tab="vill">Vi vill se <span id="vc"></span></button></nav></header>
+<div id="banner" class="banner" hidden>Exempeldata – riktiga listan kommer</div>
+<section class="ctl">
+<input id="q" type="search" placeholder="Sök titel, skådespelare, regissör" autocomplete="off">
+<div class="row"><label>Sortera <select id="sort"><option value="betyg">Betyg</option><option value="ar">År</option><option value="langd">Längd</option><option value="titel">Titel</option></select></label>
+<label>Minst IMDb <select id="min"><option value="0">Alla</option><option>6</option><option>6.5</option><option>7</option><option>7.5</option><option>8</option></select></label></div>
+<div class="chips" id="kchips"></div><div class="chips" id="gchips"></div>
+<div class="row tog"><label><input type="checkbox" id="barn"> Bara barnfilmer</label><label><input type="checkbox" id="forsv"> Visa även filmer som försvinner 31 okt</label></div>
+</section>
+<p id="cnt" class="cnt"></p><main id="list"></main>
+<footer class="foot"><p id="meta"></p><button id="pre" class="btn">Spara alla affischer för offline</button><p id="prest" class="muted"></p>
+<p class="muted">Våra ”Vi vill se”-markeringar sparas bara här på telefonen.</p></footer>
+<dialog id="dlg"><div id="det"></div></dialog>
+<script src="app.js"></script></body></html>

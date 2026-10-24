@@ -37,3 +37,4 @@ dialog::backdrop{background:#000a}
 .dtop .ps{width:120px}.db h2{margin:0 0 6px}.db p{line-height:1.5}
 dl{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 12px;font-size:14px}dt{color:var(--mu)}dd{margin:0;overflow-wrap:anywhere}
 @media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:active{transform:scale(.98)}}
+.dh .star{font-size:17px;font-weight:600;color:var(--bl)}.dh .star.on{color:var(--ac)}.dh button:focus:not(:focus-visible){outline:none}

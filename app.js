@@ -28,7 +28,7 @@ function chips(){
     el.onclick=e=>{const b=e.target.closest('.chip');if(!b)return;const v=b.dataset.v;set.has(v)?set.delete(v):set.add(v);b.classList.toggle('on');render()}};
   mk($('#kchips'),ks,S.kat,katNamn);mk($('#gchips'),gs,S.gen,g=>g);
 }
-const cmp={betyg:(a,b)=>(b.imdb_betyg??-1)-(a.imdb_betyg??-1)||(b.imdb_roster??0)-(a.imdb_roster??0),ar:(a,b)=>(b.ar??-1)-(a.ar??-1),langd:(a,b)=>(a.langd_min??1e9)-(b.langd_min??1e9),titel:(a,b)=>a.titel.localeCompare(b.titel,'sv')};
+const cmp={betyg:(a,b)=>(b.imdb_betyg??-1)-(a.imdb_betyg??-1)||(b.imdb_roster??0)-(a.imdb_roster??0),ar:(a,b)=>(b.ar??-1)-(a.ar??-1),langd:(a,b)=>(a.langd_min??1e9)-(b.langd_min??1e9),titel:(a,b)=>a.titel.replace(/^[^\p{L}\p{N}]+/u,'').localeCompare(b.titel.replace(/^[^\p{L}\p{N}]+/u,''),'sv')};
 function filt(){
   const q=S.q.trim().toLowerCase();
   return F.filter(f=>(S.forsv||f.finns)&&(!S.barn||f.barn)&&(!S.min||(f.imdb_betyg??0)>=S.min)&&(!S.kat.size||S.kat.has(f.sas_kategori))&&(!S.gen.size||f.genre.some(g=>S.gen.has(g)))&&(S.tab!=='vill'||vill.has(key(f)))&&

@@ -13,7 +13,7 @@
 <input id="q" type="search" placeholder="Sök titel, skådespelare, regissör" autocomplete="off">
 <div class="row"><label>Sortera <select id="sort"><option value="betyg">Betyg</option><option value="ar">År</option><option value="langd">Längd</option><option value="titel">Titel</option></select></label>
 <label>Minst IMDb <select id="min"><option value="0">Alla</option><option>6</option><option>6.5</option><option>7</option><option>7.5</option><option>8</option></select></label></div>
-<div class="chips" id="kchips"></div><div class="chips" id="gchips"></div>
+<div class="chips" id="nyrow" hidden><button class="chip nychip" id="nya" aria-pressed="false">Bara nya (0)</button></div><div class="chips" id="kchips"></div><div class="chips" id="gchips"></div>
 <div class="row tog"><label><input type="checkbox" id="barn"> Bara barnfilmer</label><label><input type="checkbox" id="forsv"> Visa även filmer som försvinner 31 okt</label></div>
 </section>
 <p id="cnt" class="cnt"></p><main id="list"></main>

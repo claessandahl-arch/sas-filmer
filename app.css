@@ -38,3 +38,6 @@ dialog::backdrop{background:#000a}
 dl{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 12px;font-size:14px}dt{color:var(--mu)}dd{margin:0;overflow-wrap:anywhere}
 @media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:active{transform:scale(.98)}}
 .dh .star{font-size:17px;font-weight:600;color:var(--bl)}.dh .star.on{color:var(--ac)}.dh button:focus:not(:focus-visible){outline:none}
+.ny{display:inline-block;vertical-align:2px;font-size:11px;font-weight:800;letter-spacing:.04em;background:#30d15833;color:#30d158;border-radius:6px;padding:1px 6px;margin-bottom:4px;line-height:1.4}.ny.senast{background:#30d158;color:#000}
+.nychip.on{background:#30d158;color:#000}.nyt{color:#30d158;font-weight:600}
+[hidden]{display:none!important}

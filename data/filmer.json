@@ -1,5 +1,5 @@
 {
- "hamtad": "2026-10-24",
+ "hamtad": "2026-10-30",
  "kalla": "https://inflightentertainment.sas.se/data.json",
  "avresedag": "2026-11-12",
  "ny_efter": "2026-10-24",
@@ -15,7 +15,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 8.7,
-   "imdb_roster": 2624914,
+   "imdb_roster": 2627617,
    "imdb_id": "tt0816692",
    "regissor": "Christopher Nolan",
    "roller": [
@@ -59,7 +59,7 @@
     "Action"
    ],
    "imdb_betyg": 8.4,
-   "imdb_roster": 801207,
+   "imdb_roster": 802607,
    "imdb_id": "tt15239678",
    "regissor": "Denis Villeneuve",
    "roller": [
@@ -113,7 +113,7 @@
     "Drama"
    ],
    "imdb_betyg": 8.3,
-   "imdb_roster": 1732936,
+   "imdb_roster": 1734244,
    "imdb_id": "tt7286456",
    "regissor": "Todd Phillips",
    "roller": [
@@ -162,7 +162,7 @@
     "Drama"
    ],
    "imdb_betyg": 8.3,
-   "imdb_roster": 70889,
+   "imdb_roster": 71845,
    "imdb_id": "tt31514146",
    "regissor": "Kirk Jones",
    "roller": [
@@ -199,7 +199,7 @@
     "Action"
    ],
    "imdb_betyg": 8.1,
-   "imdb_roster": 1067165,
+   "imdb_roster": 1067912,
    "imdb_id": "tt1201607",
    "regissor": "David Yates",
    "roller": [
@@ -261,7 +261,7 @@
     "Thriller"
    ],
    "imdb_betyg": 8.1,
-   "imdb_roster": 207824,
+   "imdb_roster": 207939,
    "imdb_id": "tt0046912",
    "regissor": "Alfred Hitchcock",
    "roller": [
@@ -298,7 +298,7 @@
     "Action"
    ],
    "imdb_betyg": 8.0,
-   "imdb_roster": 1097411,
+   "imdb_roster": 1098838,
    "imdb_id": "tt1160419",
    "regissor": "Denis Villeneuve",
    "roller": [
@@ -350,7 +350,7 @@
     "Thriller"
    ],
    "imdb_betyg": 8.0,
-   "imdb_roster": 68678,
+   "imdb_roster": 68742,
    "imdb_id": "tt0056687",
    "regissor": "Robert Aldrich",
    "roller": [
@@ -384,7 +384,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.9,
-   "imdb_roster": 491714,
+   "imdb_roster": 492422,
    "imdb_id": "tt6791350",
    "regissor": "James Gunn",
    "roller": [
@@ -431,7 +431,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.9,
-   "imdb_roster": 149608,
+   "imdb_roster": 149680,
    "imdb_id": "tt0044079",
    "regissor": "Alfred Hitchcock",
    "roller": [
@@ -465,7 +465,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.9,
-   "imdb_roster": 2869,
+   "imdb_roster": 2887,
    "imdb_id": "tt36733027",
    "regissor": "Yu Shui",
    "roller": [
@@ -500,7 +500,7 @@
     "Action"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 677900,
+   "imdb_roster": 678394,
    "imdb_id": "tt0926084",
    "regissor": "David Yates",
    "roller": [
@@ -567,7 +567,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 908475,
+   "imdb_roster": 908802,
    "imdb_id": "tt1454468",
    "regissor": "Alfonso Cuarón",
    "roller": [
@@ -610,7 +610,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 948517,
+   "imdb_roster": 949187,
    "imdb_id": "tt1119646",
    "regissor": "Todd Phillips",
    "roller": [
@@ -654,7 +654,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 694992,
+   "imdb_roster": 695811,
    "imdb_id": "tt0443706",
    "regissor": "David Fincher",
    "roller": [
@@ -702,7 +702,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 92274,
+   "imdb_roster": 92664,
    "imdb_id": "tt27714581",
    "regissor": "Joachim Trier, Lars Thomas Skare, Sunniva Sollied Møller",
    "roller": [
@@ -737,7 +737,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 422663,
+   "imdb_roster": 422897,
    "imdb_id": "tt1490017",
    "regissor": "Phil Lord, Christopher Miller",
    "roller": [
@@ -781,7 +781,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 507352,
+   "imdb_roster": 507640,
    "imdb_id": "tt1772341",
    "regissor": "Rich Moore",
    "roller": [
@@ -822,7 +822,7 @@
     "Action"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 453465,
+   "imdb_roster": 454574,
    "imdb_id": "tt30144839",
    "regissor": "Paul Thomas Anderson",
    "roller": [
@@ -867,7 +867,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 398440,
+   "imdb_roster": 399346,
    "imdb_id": "tt16311594",
    "regissor": "Joseph Kosinski",
    "roller": [
@@ -912,7 +912,7 @@
     "Action"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 673670,
+   "imdb_roster": 674202,
    "imdb_id": "tt0417741",
    "regissor": "David Yates",
    "roller": [
@@ -969,7 +969,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 86250,
+   "imdb_roster": 86312,
    "imdb_id": "tt4916630",
    "regissor": "Destin Daniel Cretton",
    "roller": [
@@ -1019,7 +1019,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 81697,
+   "imdb_roster": 81814,
    "imdb_id": "tt21192142",
    "regissor": "Andrew Haigh",
    "roller": [
@@ -1063,7 +1063,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 104539,
+   "imdb_roster": 104581,
    "imdb_id": "tt0048545",
    "regissor": "Nicholas Ray",
    "roller": [
@@ -1105,7 +1105,7 @@
     "Horror"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 535509,
+   "imdb_roster": 537309,
    "imdb_id": "tt31193180",
    "regissor": "Ryan Coogler",
    "roller": [
@@ -1150,7 +1150,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 77902,
+   "imdb_roster": 78292,
    "imdb_id": "tt1527793",
    "regissor": "Park Chan-wook",
    "roller": [
@@ -1188,7 +1188,7 @@
     "Action"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 714519,
+   "imdb_roster": 715049,
    "imdb_id": "tt0373889",
    "regissor": "David Yates",
    "roller": [
@@ -1242,7 +1242,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 318216,
+   "imdb_roster": 318381,
    "imdb_id": "tt0118884",
    "regissor": "Robert Zemeckis",
    "roller": [
@@ -1284,7 +1284,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 713178,
+   "imdb_roster": 713393,
    "imdb_id": "tt0988045",
    "regissor": "Guy Ritchie",
    "roller": [
@@ -1328,7 +1328,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 329414,
+   "imdb_roster": 329830,
    "imdb_id": "tt12037194",
    "regissor": "George Miller",
    "roller": [
@@ -1373,7 +1373,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 553846,
+   "imdb_roster": 554284,
    "imdb_id": "tt1677720",
    "regissor": "Steven Spielberg",
    "roller": [
@@ -1415,7 +1415,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 506575,
+   "imdb_roster": 506739,
    "imdb_id": "tt1515091",
    "regissor": "Guy Ritchie",
    "roller": [
@@ -1460,7 +1460,7 @@
     "Action"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 714484,
+   "imdb_roster": 715011,
    "imdb_id": "tt6723592",
    "regissor": "Christopher Nolan",
    "roller": [
@@ -1507,7 +1507,7 @@
     "Romance"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 30821,
+   "imdb_roster": 30843,
    "imdb_id": "tt0071115",
    "regissor": "Martin Scorsese",
    "roller": [
@@ -1551,7 +1551,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 405102,
+   "imdb_roster": 405451,
    "imdb_id": "tt2140479",
    "regissor": "Gavin O'Connor",
    "roller": [
@@ -1596,7 +1596,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 11956,
+   "imdb_roster": 12037,
    "imdb_id": "tt34886821",
    "regissor": "Paolo Sorrentino",
    "roller": [
@@ -1632,7 +1632,7 @@
     "Family"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 259179,
+   "imdb_roster": 259486,
    "imdb_id": "tt1262426",
    "regissor": "Jon M. Chu",
    "roller": [
@@ -1677,7 +1677,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 173510,
+   "imdb_roster": 173580,
    "imdb_id": "tt3521126",
    "regissor": "James Franco",
    "roller": [
@@ -1719,7 +1719,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 198643,
+   "imdb_roster": 198819,
    "imdb_id": "tt4116284",
    "regissor": "Chris McKay",
    "roller": [
@@ -1759,7 +1759,7 @@
     "Action"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 547148,
+   "imdb_roster": 547410,
    "imdb_id": "tt3183660",
    "regissor": "David Yates",
    "roller": [
@@ -1809,7 +1809,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 344159,
+   "imdb_roster": 344342,
    "imdb_id": "tt0212720",
    "regissor": "Steven Spielberg",
    "roller": [
@@ -1852,7 +1852,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 891433,
+   "imdb_roster": 892085,
    "imdb_id": "tt0480249",
    "regissor": "Francis Lawrence",
    "roller": [
@@ -1893,7 +1893,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 4067,
+   "imdb_roster": 4084,
    "imdb_id": "tt30810787",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -1927,7 +1927,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 908,
+   "imdb_roster": 924,
    "imdb_id": "tt35521394",
    "regissor": "Yoji Yamada",
    "roller": [
@@ -1962,7 +1962,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 12599,
+   "imdb_roster": 12628,
    "imdb_id": "tt26677014",
    "regissor": "Peter Cattaneo",
    "roller": [
@@ -2001,7 +2001,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 18128,
+   "imdb_roster": 18270,
    "imdb_id": "tt27817389",
    "regissor": "Anders Thomas Jensen",
    "roller": [
@@ -2034,7 +2034,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 2252,
+   "imdb_roster": 2258,
    "imdb_id": "tt30810792",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -2068,7 +2068,7 @@
     "Romance"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 1181,
+   "imdb_roster": 1201,
    "imdb_id": "tt37764737",
    "regissor": "Kim Do-young",
    "roller": [
@@ -2102,7 +2102,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 310932,
+   "imdb_roster": 311365,
    "imdb_id": "tt2005151",
    "regissor": "Todd Phillips",
    "roller": [
@@ -2146,7 +2146,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 1997,
+   "imdb_roster": 2028,
    "imdb_id": "tt33586629",
    "regissor": "Damiano Michieletto",
    "roller": [
@@ -2180,7 +2180,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 132796,
+   "imdb_roster": 133032,
    "imdb_id": "tt27403986",
    "regissor": "Clint Eastwood",
    "roller": [
@@ -2226,7 +2226,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 7115,
+   "imdb_roster": 7159,
    "imdb_id": "tt28690468",
    "regissor": "Mascha Schilinski",
    "roller": [
@@ -2260,7 +2260,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 14485,
+   "imdb_roster": 14506,
    "imdb_id": "tt32086077",
    "regissor": "Payal Kapadia",
    "roller": [
@@ -2295,7 +2295,7 @@
     "Thriller"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 39002,
+   "imdb_roster": 39179,
    "imdb_id": "tt32298285",
    "regissor": "Oliver Laxe",
    "roller": [
@@ -2329,7 +2329,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 68127,
+   "imdb_roster": 68227,
    "imdb_id": "tt10172266",
    "regissor": "Matthew López",
    "roller": [
@@ -2373,7 +2373,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 532450,
+   "imdb_roster": 532792,
    "imdb_id": "tt1723121",
    "regissor": "Rawson Marshall Thurber",
    "roller": [
@@ -2417,7 +2417,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 194548,
+   "imdb_roster": 195178,
    "imdb_id": "tt26584495",
    "regissor": "Drew Hancock",
    "roller": [
@@ -2459,7 +2459,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 6039,
+   "imdb_roster": 6061,
    "imdb_id": "tt34621892",
    "regissor": "Paolo Genovese",
    "roller": [
@@ -2493,7 +2493,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 286383,
+   "imdb_roster": 286668,
    "imdb_id": "tt2704998",
    "regissor": "John Francis Daley, Jonathan Goldstein",
    "roller": [
@@ -2547,7 +2547,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 492963,
+   "imdb_roster": 493151,
    "imdb_id": "tt1499658",
    "regissor": "Seth Gordon",
    "roller": [
@@ -2595,7 +2595,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 116,
+   "imdb_roster": 122,
    "imdb_id": "tt36591539",
    "regissor": "Yang Jong-hyun",
    "roller": [
@@ -2630,7 +2630,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 108506,
+   "imdb_roster": 108531,
    "imdb_id": "tt0477302",
    "regissor": "Stephen Daldry",
    "roller": [
@@ -2674,7 +2674,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 1252,
+   "imdb_roster": 1258,
    "imdb_id": "tt35519445",
    "regissor": "Pauline Loquès",
    "roller": [
@@ -2708,7 +2708,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 276313,
+   "imdb_roster": 276640,
    "imdb_id": "tt1684562",
    "regissor": "David Leitch",
    "roller": [
@@ -2753,7 +2753,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 709227,
+   "imdb_roster": 709834,
    "imdb_id": "tt1517268",
    "regissor": "Greta Gerwig",
    "roller": [
@@ -2798,7 +2798,7 @@
     "Crime"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 204717,
+   "imdb_roster": 204823,
    "imdb_id": "tt1355683",
    "regissor": "Scott Cooper",
    "roller": [
@@ -2847,7 +2847,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 81086,
+   "imdb_roster": 81122,
    "imdb_id": "tt8912936",
    "regissor": "Jared Stern",
    "roller": [
@@ -2895,7 +2895,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 934,
+   "imdb_roster": 945,
    "imdb_id": "tt34762801",
    "regissor": "Alice Douard",
    "roller": [
@@ -2929,7 +2929,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 73703,
+   "imdb_roster": 73750,
    "imdb_id": "tt4624424",
    "regissor": "Nicholas Stoller, Doug Sweetland",
    "roller": [
@@ -2973,7 +2973,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 410400,
+   "imdb_roster": 410665,
    "imdb_id": "tt1068680",
    "regissor": "Peyton Reed",
    "roller": [
@@ -3018,7 +3018,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 2367,
+   "imdb_roster": 2374,
    "imdb_id": "tt29279903",
    "regissor": "Neo Sora",
    "roller": [
@@ -3054,7 +3054,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 99251,
+   "imdb_roster": 99658,
    "imdb_id": "tt32430579",
    "regissor": "Bart Layton",
    "roller": [
@@ -3099,7 +3099,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 2849,
+   "imdb_roster": 2852,
    "imdb_id": "tt6720618",
    "regissor": "Eric Khoo",
    "roller": [
@@ -3133,7 +3133,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 3685,
+   "imdb_roster": 3703,
    "imdb_id": "tt32538648",
    "regissor": "Carla Simón",
    "roller": [
@@ -3167,7 +3167,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 268775,
+   "imdb_roster": 269560,
    "imdb_id": "tt12299608",
    "regissor": "Bong Joon Ho",
    "roller": [
@@ -3212,7 +3212,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 29568,
+   "imdb_roster": 29634,
    "imdb_id": "tt29439114",
    "regissor": "Pedro Almodóvar",
    "roller": [
@@ -3255,7 +3255,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 957,
+   "imdb_roster": 966,
    "imdb_id": "tt32144178",
    "regissor": " Jeanette Nordahl",
    "roller": [
@@ -3289,7 +3289,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 24392,
+   "imdb_roster": 24411,
    "imdb_id": "tt7424200",
    "regissor": "Aaron Horvath, Peter Rida Michail",
    "roller": [
@@ -3334,7 +3334,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 60182,
+   "imdb_roster": 60243,
    "imdb_id": "tt17527468",
    "regissor": "Emma Seligman",
    "roller": [
@@ -3373,7 +3373,7 @@
     "Thriller"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 173871,
+   "imdb_roster": 174324,
    "imdb_id": "tt9619824",
    "regissor": "Adam Stein, Zach Lipovsky",
    "roller": [
@@ -3417,7 +3417,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 99278,
+   "imdb_roster": 99405,
    "imdb_id": "tt11655566",
    "regissor": "Dean Fleischer Camp",
    "roller": [
@@ -3461,7 +3461,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 121852,
+   "imdb_roster": 123066,
    "imdb_id": "tt30825738",
    "regissor": "Jon Favreau",
    "roller": [
@@ -3507,7 +3507,7 @@
     "Horror"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 234960,
+   "imdb_roster": 239679,
    "imdb_id": "tt26657236",
    "regissor": "Kane Parsons",
    "roller": [
@@ -3550,7 +3550,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 46470,
+   "imdb_roster": 46498,
    "imdb_id": "tt6182908",
    "regissor": "Karey Kirkpatrick, Jason Reisig",
    "roller": [
@@ -3591,7 +3591,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 7320,
+   "imdb_roster": 7322,
    "imdb_id": "tt3542188",
    "regissor": "Roni Ezra",
    "roller": [
@@ -3625,7 +3625,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 581,
+   "imdb_roster": 585,
    "imdb_id": "tt35115823",
    "regissor": "Rasmus A. Sivertsen",
    "roller": [
@@ -3659,7 +3659,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 589,
+   "imdb_roster": 596,
    "imdb_id": "tt36948837",
    "regissor": "Nawapol Thamrongrattanarit",
    "roller": [
@@ -3693,7 +3693,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 2964,
+   "imdb_roster": 2977,
    "imdb_id": "tt32247943",
    "regissor": "Christian Petzold",
    "roller": [
@@ -3727,7 +3727,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 2925,
+   "imdb_roster": 2938,
    "imdb_id": "tt26270862",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -3761,7 +3761,7 @@
     "Thriller"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 39569,
+   "imdb_roster": 39650,
    "imdb_id": "tt14403504",
    "regissor": "Alex Parkinson",
    "roller": [
@@ -3797,7 +3797,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 955,
+   "imdb_roster": 967,
    "imdb_id": "tt33253688",
    "regissor": "Kei Ishikawa",
    "roller": [
@@ -3832,7 +3832,7 @@
     "Action"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 336289,
+   "imdb_roster": 336495,
    "imdb_id": "tt4123430",
    "regissor": "David Yates",
    "roller": [
@@ -3880,7 +3880,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 461,
+   "imdb_roster": 465,
    "imdb_id": "tt35485652",
    "regissor": "Janicke Askevold",
    "roller": [
@@ -3914,7 +3914,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 285937,
+   "imdb_roster": 286146,
    "imdb_id": "tt2935510",
    "regissor": "James Gray",
    "roller": [
@@ -3962,7 +3962,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 90871,
+   "imdb_roster": 90917,
    "imdb_id": "tt0186566",
    "regissor": "Clint Eastwood",
    "roller": [
@@ -4007,7 +4007,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 165387,
+   "imdb_roster": 165535,
    "imdb_id": "tt2854926",
    "regissor": "Jeff Tomsic",
    "roller": [
@@ -4050,7 +4050,7 @@
     "Romance"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 35976,
+   "imdb_roster": 36040,
    "imdb_id": "tt32063050",
    "regissor": "Michael Morris",
    "roller": [
@@ -4095,7 +4095,7 @@
     "Romance"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 313359,
+   "imdb_roster": 313590,
    "imdb_id": "tt0795421",
    "regissor": "Phyllida Lloyd",
    "roller": [
@@ -4133,7 +4133,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 200595,
+   "imdb_roster": 200719,
    "imdb_id": "tt5884052",
    "regissor": "Rob Letterman",
    "roller": [
@@ -4184,7 +4184,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 104697,
+   "imdb_roster": 104937,
    "imdb_id": "tt0899043",
    "regissor": "James Hawes",
    "roller": [
@@ -4230,7 +4230,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 87427,
+   "imdb_roster": 87507,
    "imdb_id": "tt3513498",
    "regissor": "Mike Mitchell",
    "roller": [
@@ -4274,7 +4274,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 11415,
+   "imdb_roster": 11422,
    "imdb_id": "tt10556022",
    "regissor": "Rachel Lee Goldenberg",
    "roller": [
@@ -4345,7 +4345,7 @@
     "Action"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 42332,
+   "imdb_roster": 42413,
    "imdb_id": "tt14824600",
    "regissor": "Kenji Kamiyama",
    "roller": [
@@ -4390,7 +4390,7 @@
     "Thriller"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 291,
+   "imdb_roster": 292,
    "imdb_id": "tt17499010",
    "regissor": "Kôji Fukada",
    "roller": [
@@ -4424,7 +4424,7 @@
     "Crime"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 148237,
+   "imdb_roster": 148483,
    "imdb_id": "tt10016180",
    "regissor": "John Lee Hancock",
    "roller": [
@@ -4470,7 +4470,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 55019,
+   "imdb_roster": 55459,
    "imdb_id": "tt31728330",
    "regissor": "Kirill Sokolov",
    "roller": [
@@ -4515,7 +4515,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 305,
+   "imdb_roster": 316,
    "imdb_id": "tt27552049",
    "regissor": "Maria Sodahl",
    "roller": [
@@ -4548,7 +4548,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 95241,
+   "imdb_roster": 95994,
    "imdb_id": "tt17490712",
    "regissor": "Simon McQuoid",
    "roller": [
@@ -4592,7 +4592,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 121333,
+   "imdb_roster": 122147,
    "imdb_id": "tt33612209",
    "regissor": "David Frankel",
    "roller": [
@@ -4638,7 +4638,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 245135,
+   "imdb_roster": 245312,
    "imdb_id": "tt1365519",
    "regissor": "Roar Uthaug",
    "roller": [
@@ -4687,7 +4687,7 @@
     "Action"
    ],
    "imdb_betyg": 6.2,
-   "imdb_roster": 196433,
+   "imdb_roster": 196613,
    "imdb_id": "tt4123432",
    "regissor": "David Yates",
    "roller": [
@@ -4738,7 +4738,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.2,
-   "imdb_roster": 900,
+   "imdb_roster": 922,
    "imdb_id": "tt35623371",
    "regissor": "Ulf Malmros",
    "roller": [
@@ -4772,7 +4772,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.2,
-   "imdb_roster": 77715,
+   "imdb_roster": 78179,
    "imdb_id": "tt28650488",
    "regissor": "Pierre LeDuc, Fabian Polack, Aaron Horvath, Michael Jelenic",
    "roller": [
@@ -4814,7 +4814,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 95272,
+   "imdb_roster": 95762,
    "imdb_id": "tt32897959",
    "regissor": "Emerald Fennell",
    "roller": [
@@ -4858,7 +4858,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 16100,
+   "imdb_roster": 16161,
    "imdb_id": "tt11225626",
    "regissor": "Tig Notaro, Stephanie Allynne",
    "roller": [
@@ -4907,7 +4907,7 @@
     "Horror"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 76417,
+   "imdb_roster": 77043,
    "imdb_id": "tt32612507",
    "regissor": "Lee Cronin",
    "roller": [
@@ -4951,7 +4951,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 224301,
+   "imdb_roster": 224528,
    "imdb_id": "tt0293429",
    "regissor": "Simon McQuoid",
    "roller": [
@@ -4995,7 +4995,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 205466,
+   "imdb_roster": 205602,
    "imdb_id": "tt2231461",
    "regissor": "Brad Peyton",
    "roller": [
@@ -5040,7 +5040,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 35823,
+   "imdb_roster": 35868,
    "imdb_id": "tt3014284",
    "regissor": "Charlie Bean, Paul Fisher, Bob Logan",
    "roller": [
@@ -5084,7 +5084,7 @@
     "Romance"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 1914,
+   "imdb_roster": 1923,
    "imdb_id": "tt35495052",
    "regissor": null,
    "roller": [
@@ -5128,7 +5128,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 1857,
+   "imdb_roster": 1866,
    "imdb_id": "tt28171985",
    "regissor": "Lucile Hadzihalilovic",
    "roller": [
@@ -5163,7 +5163,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 139932,
+   "imdb_roster": 140121,
    "imdb_id": "tt14539740",
    "regissor": "Adam Wingard",
    "roller": [
@@ -5207,7 +5207,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 233381,
+   "imdb_roster": 233531,
    "imdb_id": "tt3741700",
    "regissor": "Michael Dougherty",
    "roller": [
@@ -5253,7 +5253,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 1504,
+   "imdb_roster": 1509,
    "imdb_id": "tt28508231",
    "regissor": "Cecilia Aranovich Hamilton",
    "roller": [
@@ -5291,7 +5291,7 @@
     "Biography"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 22977,
+   "imdb_roster": 23068,
    "imdb_id": "tt21815562",
    "regissor": "Barry Levinson",
    "roller": [
@@ -5333,7 +5333,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 77844,
+   "imdb_roster": 77864,
    "imdb_id": "tt2452244",
    "regissor": "Todd Strauss-Schulson",
    "roller": [
@@ -5379,7 +5379,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 10538,
+   "imdb_roster": 10544,
    "imdb_id": "tt23177868",
    "regissor": "Juan Jesús García Galocha",
    "roller": [
@@ -5427,7 +5427,7 @@
     "Horror"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 36806,
+   "imdb_roster": 37204,
    "imdb_id": "tt35892608",
    "regissor": "Ian Tuason",
    "roller": [
@@ -5469,7 +5469,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.8,
-   "imdb_roster": 101508,
+   "imdb_roster": 101596,
    "imdb_id": "tt0821640",
    "regissor": "Mark Waters",
    "roller": [
@@ -5513,7 +5513,7 @@
     "Action"
    ],
    "imdb_betyg": 5.8,
-   "imdb_roster": 174272,
+   "imdb_roster": 174604,
    "imdb_id": "tt26753003",
    "regissor": "M. Night Shyamalan",
    "roller": [
@@ -5556,7 +5556,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.7,
-   "imdb_roster": 9522,
+   "imdb_roster": 9544,
    "imdb_id": "tt14041896",
    "regissor": "Craig Johnson",
    "roller": [
@@ -5598,7 +5598,7 @@
     "Thriller"
    ],
    "imdb_betyg": 5.7,
-   "imdb_roster": 74235,
+   "imdb_roster": 74358,
    "imdb_id": "tt26736843",
    "regissor": "Ishana Night Shyamalan",
    "roller": [
@@ -5642,7 +5642,7 @@
     "Thriller"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 43283,
+   "imdb_roster": 43483,
    "imdb_id": "tt10245072",
    "regissor": "Gary Dauberman",
    "roller": [
@@ -5686,7 +5686,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 195826,
+   "imdb_roster": 196318,
    "imdb_id": "tt14513804",
    "regissor": "Julius Onah",
    "roller": [
@@ -5732,7 +5732,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 24368,
+   "imdb_roster": 24387,
    "imdb_id": "tt1966359",
    "regissor": "Lawrence Sher",
    "roller": [
@@ -5775,7 +5775,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 43370,
+   "imdb_roster": 43400,
    "imdb_id": "tt5619332",
    "regissor": "Ben Falcone",
    "roller": [
@@ -5823,7 +5823,7 @@
     "Horror"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 39686,
+   "imdb_roster": 40052,
    "imdb_id": "tt30851137",
    "regissor": "Maggie Gyllenhaal",
    "roller": [
@@ -5867,7 +5867,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 33886,
+   "imdb_roster": 33918,
    "imdb_id": "tt3152592",
    "regissor": "Tony Cervone",
    "roller": [
@@ -5926,7 +5926,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.5,
-   "imdb_roster": 169586,
+   "imdb_roster": 170048,
    "imdb_id": "tt3566834",
    "regissor": "Jared Hess",
    "roller": [
@@ -5972,7 +5972,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.5,
-   "imdb_roster": 5121,
+   "imdb_roster": 5128,
    "imdb_id": "tt14636214",
    "regissor": "Jordan Weiss",
    "roller": [
@@ -6051,7 +6051,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.3,
-   "imdb_roster": 44065,
+   "imdb_roster": 44104,
    "imdb_id": "tt1361336",
    "regissor": "Tim Story",
    "roller": [
@@ -6094,7 +6094,7 @@
     "Drama"
    ],
    "imdb_betyg": 5.2,
-   "imdb_roster": 189800,
+   "imdb_roster": 190131,
    "imdb_id": "tt11315808",
    "regissor": "Todd Phillips",
    "roller": [
@@ -6141,7 +6141,7 @@
     "Romance"
    ],
    "imdb_betyg": 5.2,
-   "imdb_roster": 20420,
+   "imdb_roster": 20430,
    "imdb_id": "tt16280138",
    "regissor": "Steven Soderbergh",
    "roller": [
@@ -6186,7 +6186,7 @@
     "Fantasy"
    ],
    "imdb_betyg": 5.0,
-   "imdb_roster": 105944,
+   "imdb_roster": 106058,
    "imdb_id": "tt9224104",
    "regissor": "Ben Wheatley",
    "roller": [
@@ -6231,7 +6231,7 @@
     "Thriller"
    ],
    "imdb_betyg": 4.9,
-   "imdb_roster": 7028,
+   "imdb_roster": 7161,
    "imdb_id": "tt19838566",
    "regissor": "Paul Eye",
    "roller": [
@@ -6264,7 +6264,7 @@
     "Thriller"
    ],
    "imdb_betyg": 4.8,
-   "imdb_roster": 534,
+   "imdb_roster": 537,
    "imdb_id": "tt38219225",
    "regissor": "Eiichirô Hasumi",
    "roller": [
@@ -6291,43 +6291,6 @@
    "ny": false
   },
   {
-   "titel": "Casa Grande: The Movie",
-   "originaltitel": null,
-   "sas_kategori": "New Releases",
-   "ar": 2026,
-   "langd_min": 113,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 4.6,
-   "imdb_roster": 257,
-   "imdb_id": "tt35887288",
-   "regissor": "Juan Pablo Arias Muñoz",
-   "roller": [
-    "John Pyper-Ferguson",
-    "Madison Lawlor",
-    "Christina Moore"
-   ],
-   "beskrivning": "At CASA GRANDE, a woman returns home as a land war erupts, forcing her to choose between revenge and redemption.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9bedf6d8-a3f3-4bd3-a882-11840f6e34c9-fullres-CasaGrandeV2000x3000.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "Korean",
-    "Japanese",
-    "English CC",
-    "Chinese Traditional"
-   ],
-   "ljud": [
-    "English"
-   ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2027-08-31",
-   "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Day of Reckoning",
    "originaltitel": null,
    "sas_kategori": "Action",
@@ -6337,7 +6300,7 @@
     "Crime"
    ],
    "imdb_betyg": 4.5,
-   "imdb_roster": 1351,
+   "imdb_roster": 1354,
    "imdb_id": "tt35317668",
    "regissor": "Shaun Silva",
    "roller": [
@@ -6365,6 +6328,43 @@
    "ny": false
   },
   {
+   "titel": "Casa Grande: The Movie",
+   "originaltitel": null,
+   "sas_kategori": "New Releases",
+   "ar": 2026,
+   "langd_min": 113,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 4.5,
+   "imdb_roster": 260,
+   "imdb_id": "tt35887288",
+   "regissor": "Juan Pablo Arias Muñoz",
+   "roller": [
+    "John Pyper-Ferguson",
+    "Madison Lawlor",
+    "Christina Moore"
+   ],
+   "beskrivning": "At CASA GRANDE, a woman returns home as a land war erupts, forcing her to choose between revenge and redemption.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9bedf6d8-a3f3-4bd3-a882-11840f6e34c9-fullres-CasaGrandeV2000x3000.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Chinese Traditional"
+   ],
+   "ljud": [
+    "English"
+   ],
+   "tillganglig_fran": "2026-09-01",
+   "tillganglig_till": "2027-08-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-10-24",
+   "ny": false
+  },
+  {
    "titel": "Space Jam: A New Legacy",
    "originaltitel": null,
    "sas_kategori": "Kids",
@@ -6374,7 +6374,7 @@
     "Kids"
    ],
    "imdb_betyg": 4.5,
-   "imdb_roster": 88915,
+   "imdb_roster": 88986,
    "imdb_id": "tt3554046",
    "regissor": "Malcolm D. Lee",
    "roller": [
@@ -6414,7 +6414,7 @@
     "Horror"
    ],
    "imdb_betyg": 4.4,
-   "imdb_roster": 2224,
+   "imdb_roster": 2227,
    "imdb_id": "tt32276246",
    "regissor": "Juan Pablo Arias Munoz",
    "roller": [

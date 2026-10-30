@@ -1,4 +1,4 @@
-const VERSION='v3';
+const VERSION='v4';
 const SKAL='skal-'+VERSION,DATA='data-'+VERSION,AFF='affischer-v1';
 const FILER=['./','index.html','app.css','app.js','manifest.webmanifest','icons/icon-192.png','icons/apple-touch-icon.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(SKAL).then(c=>c.addAll(FILER)).then(()=>self.skipWaiting()))});

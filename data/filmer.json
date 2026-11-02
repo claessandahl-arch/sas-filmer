@@ -1,9 +1,9 @@
 {
- "hamtad": "2026-10-30",
+ "hamtad": "2026-11-02",
  "kalla": "https://inflightentertainment.sas.se/data.json",
  "avresedag": "2026-11-12",
  "ny_efter": "2026-10-24",
- "antal": 153,
+ "antal": 175,
  "filmer": [
   {
    "titel": "Interstellar",
@@ -15,7 +15,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 8.7,
-   "imdb_roster": 2627617,
+   "imdb_roster": 2628877,
    "imdb_id": "tt0816692",
    "regissor": "Christopher Nolan",
    "roller": [
@@ -31,15 +31,15 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "English CC",
-    "Korean",
+    "Chinese Simplified",
     "Japanese",
-    "Chinese Simplified"
+    "Korean",
+    "English CC"
    ],
    "ljud": [
     "Italian",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "German",
     "English"
    ],
@@ -52,14 +52,14 @@
   {
    "titel": "Dune: Part Two",
    "originaltitel": null,
-   "sas_kategori": "Drama",
+   "sas_kategori": "Action",
    "ar": 2024,
    "langd_min": 165,
    "genre": [
     "Action"
    ],
    "imdb_betyg": 8.4,
-   "imdb_roster": 802607,
+   "imdb_roster": 803353,
    "imdb_id": "tt15239678",
    "regissor": "Denis Villeneuve",
    "roller": [
@@ -77,25 +77,25 @@
     "Javier Bardem"
    ],
    "beskrivning": "The mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e63e3c48-04d0-4ca4-8c8e-fd646c8ffae6-duneparttwo_microsite_poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8e4b12ab-2ff7-4690-bae5-ed95a0463953-b993dcc2-f49e-493e-a96b-9135c6823eb8-DunePartTwokeyart.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
     "Chinese Simplified",
     "Japanese",
-    "English CC",
-    "Swedish",
-    "Danish",
+    "Korean",
     "Norwegian",
-    "Korean"
+    "Danish",
+    "Swedish",
+    "English CC"
    ],
    "ljud": [
-    "Spanish",
-    "French",
-    "German",
-    "English",
     "English EAD",
-    "Italian"
+    "Italian",
+    "Spanish (Spain)",
+    "English",
+    "German",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -104,16 +104,69 @@
    "ny": false
   },
   {
+   "titel": "Avengers: Endgame",
+   "originaltitel": null,
+   "sas_kategori": "Action",
+   "ar": 2019,
+   "langd_min": 181,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 8.4,
+   "imdb_roster": 1505050,
+   "imdb_id": "tt4154796",
+   "regissor": "Anthony Russo,  Joe Russo",
+   "roller": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Brie Larson",
+    "Scarlett Johansson",
+    "Paul Rudd",
+    "Benedict Cumberbatch",
+    "Chadwick Boseman",
+    "Don Cheadle",
+    "Jeremy Renner"
+   ],
+   "beskrivning": "The culmination of 22 interconnected films climaxes an epic journey.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e953a1ad-4f7c-4c31-9a29-f6d7e8558dfb-avengersengame_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "Danish",
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "Joker",
    "originaltitel": null,
-   "sas_kategori": "Crime",
+   "sas_kategori": "Drama",
    "ar": 2019,
    "langd_min": 122,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 8.3,
-   "imdb_roster": 1734244,
+   "imdb_roster": 1734821,
    "imdb_id": "tt7286456",
    "regissor": "Todd Phillips",
    "roller": [
@@ -126,25 +179,25 @@
     "Bill Camp"
    ],
    "beskrivning": "The exploration of Arthur Fleck, a man disregarded by society, is not only a gritty character study, but also a broader cautionary tale.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/4264eed3-f80b-4cce-967a-fbdbd6107103-Joker_2019_Poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/0e72747b-7c06-4e5e-ba23-6c82b72379a2-joker_microsite_poster.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
-    "English CC",
     "Danish",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "English",
-    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -153,133 +206,34 @@
    "ny": false
   },
   {
-   "titel": "I Swear",
-   "originaltitel": null,
-   "sas_kategori": "True Stories",
-   "ar": 2025,
-   "langd_min": 120,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 8.3,
-   "imdb_roster": 71845,
-   "imdb_id": "tt31514146",
-   "regissor": "Kirk Jones",
-   "roller": [
-    "Robert Aramayo",
-    "Peter Mullan",
-    "Maxine Peake"
-   ],
-   "beskrivning": "From adolescence to adulthood, I SWEAR delivers hilarious and poignant details, exploring Tourette’s, a condition that remains largely undiagnosed and misunderstood.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8e8635d4-1758-4f55-acc0-b968211c5eaa-crop320x461.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "English CC",
-    "Japanese",
-    "Korean",
-    "Chinese Traditional"
-   ],
-   "ljud": [
-    "English"
-   ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Harry Potter and The Deathly Hallows - Part 2",
-   "originaltitel": null,
-   "sas_kategori": "Action",
-   "ar": 2011,
-   "langd_min": 130,
-   "genre": [
-    "Action"
-   ],
-   "imdb_betyg": 8.1,
-   "imdb_roster": 1067912,
-   "imdb_id": "tt1201607",
-   "regissor": "David Yates",
-   "roller": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Emma Watson",
-    "Helena Bonham Carter",
-    "Robbie Coltrane",
-    "Warwick Davis",
-    "Ralph Fiennes",
-    "Michael Gambon",
-    "John Hurt",
-    "Jason Isaacs",
-    "Gary Oldman",
-    "Alan Rickman",
-    "Maggie Smith",
-    "David Thewlis",
-    "Julie Walters",
-    "Ciarán Hinds",
-    "Helen McCrory",
-    "Tom Felton",
-    "Matthew Lewis",
-    "Evanna Lynch",
-    "Bonnie Wright"
-   ],
-   "beskrivning": "The motion picture event of the generation comes to a close in the second part of the final chapter in the monumental Harry Potter series.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8aa832c8-d08c-4bf4-8538-d44646087c1a-crop320x461.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
-    "English CC",
-    "Chinese Simplified",
-    "Danish"
-   ],
-   "ljud": [
-    "English",
-    "German",
-    "Spanish",
-    "French",
-    "Italian"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Dial M for Murder",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Crime",
    "ar": 1954,
    "langd_min": 105,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 8.1,
-   "imdb_roster": 207939,
+   "imdb_roster": 208010,
    "imdb_id": "tt0046912",
    "regissor": "Alfred Hitchcock",
    "roller": [
-    "Robert Cummings",
+    "Ray Milland",
     "Grace Kelly",
-    "Ray Milland"
+    "Robert Cummings"
    ],
    "beskrivning": "When playboy tennis pro Tony Wendice discovers his rich wife, Margo, is having an affair with handsome American Mark Halliday, he devises an ingenious plot to murder her.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/0e778a99-874d-4010-ae5f-e9175bb88b85-DialMForMurderkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8f4c4fad-6559-4d7f-b31b-7a24d75a61f7-crop320x461.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC"
+    "English CC",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "French",
     "Japanese",
+    "French (Parisian)",
     "English"
    ],
    "tillganglig_fran": "2026-07-01",
@@ -298,7 +252,7 @@
     "Action"
    ],
    "imdb_betyg": 8.0,
-   "imdb_roster": 1098838,
+   "imdb_roster": 1099544,
    "imdb_id": "tt1160419",
    "regissor": "Denis Villeneuve",
    "roller": [
@@ -323,14 +277,14 @@
    "textning": [
     "Chinese Simplified",
     "Japanese",
-    "English CC",
-    "Korean"
+    "Korean",
+    "English CC"
    ],
    "ljud": [
-    "English EAD",
+    "Spanish (Spain)",
     "Italian",
-    "Spanish",
-    "French",
+    "English EAD",
+    "French (Parisian)",
     "German",
     "English"
    ],
@@ -350,7 +304,7 @@
     "Thriller"
    ],
    "imdb_betyg": 8.0,
-   "imdb_roster": 68742,
+   "imdb_roster": 68786,
    "imdb_id": "tt0056687",
    "regissor": "Robert Aldrich",
    "roller": [
@@ -375,53 +329,6 @@
    "ny": false
   },
   {
-   "titel": "Guardians of the Galaxy Vol. 3",
-   "originaltitel": null,
-   "sas_kategori": "Adventure",
-   "ar": 2023,
-   "langd_min": 120,
-   "genre": [
-    "Action & Adventure"
-   ],
-   "imdb_betyg": 7.9,
-   "imdb_roster": 492422,
-   "imdb_id": "tt6791350",
-   "regissor": "James Gunn",
-   "roller": [
-    "Chris Pratt",
-    "Zoe Saldaña",
-    "Dave Bautista",
-    "Karen Gillan"
-   ],
-   "beskrivning": "The band of heroic renegades must defend the galaxy — and one of their own.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2bf1050b-b24a-404b-bd73-d6d67d8c7ae4-crop320x461.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Norwegian",
-    "Swedish",
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean"
-   ],
-   "ljud": [
-    "French",
-    "Spanish",
-    "English EAD",
-    "Italian",
-    "Hindi",
-    "English",
-    "German"
-   ],
-   "tillganglig_fran": "2026-07-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Strangers On A Train",
    "originaltitel": null,
    "sas_kategori": "Silver Screen",
@@ -431,7 +338,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.9,
-   "imdb_roster": 149680,
+   "imdb_roster": 149711,
    "imdb_id": "tt0044079",
    "regissor": "Alfred Hitchcock",
    "roller": [
@@ -456,6 +363,157 @@
    "ny": false
   },
   {
+   "titel": "Spider-man: Brand new day",
+   "originaltitel": null,
+   "sas_kategori": "New Releases",
+   "ar": 2026,
+   "langd_min": 144,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 7.9,
+   "imdb_roster": 373725,
+   "imdb_id": "tt22084616",
+   "regissor": "Destin Daniel Cretton",
+   "roller": [
+    "Tom Holland",
+    "Zendaya",
+    "Sadie Sink"
+   ],
+   "beskrivning": "A powerful change in Peter may be the only thing that can stop a shocking new threat to the city.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/61f73b77-f655-4c7f-9bdb-ac60c6021fe3-crop320x461.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC",
+    "Korean"
+   ],
+   "ljud": [
+    "Japanese",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Holdovers",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2023,
+   "langd_min": 133,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.9,
+   "imdb_roster": 275839,
+   "imdb_id": "tt14849194",
+   "regissor": "Alexander Payne",
+   "roller": [
+    "Paul Giamatti",
+    "Da'Vine Joy Randolph",
+    "Dominic Sessa",
+    "Dustin Tucker",
+    "Bill Mootos"
+   ],
+   "beskrivning": "Forced to spend Christmas break at his prep school, a curmudgeonly instructor develops an unlikely bond with a troubled student and the head cook.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a318e35a-b1db-4a27-8bbb-e5e839c2cc22-theholdovers_microsite_poster.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "English CC",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "French (Parisian)",
+    "Italian",
+    "Japanese",
+    "English EAD"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Homebound",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2025,
+   "langd_min": 122,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.9,
+   "imdb_roster": 14940,
+   "imdb_id": "tt26733325",
+   "regissor": "Neeraj Ghaywan",
+   "roller": [
+    "Ishaan Khatter",
+    "Vishal Jethwa",
+    "Janhvi Kapoor"
+   ],
+   "beskrivning": "Chandan and Shoaib pursue police jobs, but their ambitions soon put their future and friendship to the test.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/99e6541c-9a29-4aa2-af5f-0ad6a818d728-Homeboundkeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Hindi"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Kesari Chapter 2",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2025,
+   "langd_min": 135,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.9,
+   "imdb_roster": 16367,
+   "imdb_id": "tt3562110",
+   "regissor": "Karan Singh Tyagi",
+   "roller": [
+    "Akshay Kumar",
+    "Madhavan",
+    "Ananya Panday"
+   ],
+   "beskrivning": "After the Jallianwala Bagh massacre, C. Sankaran Nair challenges the British Crown in a historic fight for justice.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d192655b-7437-47fd-b024-4b7eb89ac02b-KesariChapter2keyart.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Hindi"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "Nobody",
    "originaltitel": null,
    "sas_kategori": "Kids",
@@ -464,8 +522,8 @@
    "genre": [
     "Kids"
    ],
-   "imdb_betyg": 7.9,
-   "imdb_roster": 2887,
+   "imdb_betyg": 7.8,
+   "imdb_roster": 2900,
    "imdb_id": "tt36733027",
    "regissor": "Yu Shui",
    "roller": [
@@ -478,8 +536,8 @@
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "English",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English"
    ],
    "ljud": [
     "Mandarin"
@@ -491,83 +549,68 @@
    "ny": false
   },
   {
-   "titel": "Harry Potter and the Deathly Hallows - Part 1",
+   "titel": "Hidden Figures",
    "originaltitel": null,
-   "sas_kategori": "Action",
-   "ar": 2010,
-   "langd_min": 146,
+   "sas_kategori": "Drama",
+   "ar": 2016,
+   "langd_min": 127,
    "genre": [
-    "Action"
+    "Drama"
    ],
-   "imdb_betyg": 7.7,
-   "imdb_roster": 678394,
-   "imdb_id": "tt0926084",
-   "regissor": "David Yates",
+   "imdb_betyg": 7.8,
+   "imdb_roster": 295741,
+   "imdb_id": "tt4846340",
+   "regissor": "Theodore Melfi",
    "roller": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Emma Watson",
-    "Helena Bonham Carter",
-    "Robbie Coltrane",
-    "Warwick Davis",
-    "Ralph Fiennes",
-    "Michael Gambon",
-    "Brendan Gleeson",
-    "Richard Griffiths",
-    "John Hurt",
-    "Jason Isaacs",
-    "Alan Rickman",
-    "Fiona Shaw",
-    "Timothy Spall",
-    "Imelda Staunton",
-    "David Thewlis",
-    "Julie Walters",
-    "Rhys Ifans",
-    "Bill Nighy",
-    "Mark Williams",
-    "Tom Felton",
-    "Toby Jones",
-    "Bonnie Wright",
-    "James Phelps",
-    "Oliver Phelps",
-    "Evanna Lynch"
+    "Taraji P. Henson",
+    "Octavia Spencer",
+    "Janelle Monáe",
+    "Kevin Costner",
+    "Kirsten Dunst",
+    "Jim Parsons",
+    "Mahershala Ali",
+    "Aldis Hodge",
+    "Glen Powell",
+    "Kimberly Quinn"
    ],
-   "beskrivning": "In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to track down",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/fdcadfee-0797-4a38-ab4a-4b63542d926f-crop320x461.jpg",
-   "aldersgrans": "PG-13",
+   "beskrivning": "A story about three women at NASA who helped launch John Glenn into orbit.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b157f035-04c4-4199-b98d-bb83c63ee585-hiddenfigures_microsite_poster.jpg",
+   "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Norwegian",
     "Chinese Simplified",
     "Danish",
     "English CC",
     "Japanese",
-    "Korean"
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
+    "English",
     "German",
-    "Spanish",
-    "French",
-    "Italian",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Gravity",
    "originaltitel": null,
-   "sas_kategori": "Sci-fi",
+   "sas_kategori": "Action",
    "ar": 2013,
    "langd_min": 93,
    "genre": [
     "Science Fiction"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 908802,
+   "imdb_roster": 908959,
    "imdb_id": "tt1454468",
    "regissor": "Alfonso Cuarón",
    "roller": [
@@ -575,22 +618,22 @@
     "George Clooney"
    ],
    "beskrivning": "Sandra Bullock stars in this heart-pounding thriller set in the infinite and unforgiving realm of deep space.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/46bca443-7518-44e2-97bc-bbb832ce422a-gravity_microsite_poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/dbb69634-a8e4-4368-8c9f-3d287acf0486-Gravity_2013_Poster.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "Swedish",
+    "Norwegian",
     "Japanese",
     "English CC",
     "Danish",
-    "Chinese Simplified",
-    "Swedish",
-    "Norwegian"
+    "Chinese Simplified"
    ],
    "ljud": [
-    "Spanish",
-    "French",
-    "Italian",
     "Korean",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
     "English"
    ],
@@ -603,14 +646,14 @@
   {
    "titel": "The Hangover",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "Adventure",
    "ar": 2009,
    "langd_min": 100,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 949187,
+   "imdb_roster": 949503,
    "imdb_id": "tt1119646",
    "regissor": "Todd Phillips",
    "roller": [
@@ -622,21 +665,21 @@
     "Jeffrey Tambor"
    ],
    "beskrivning": "Following a bachelor party, three friends of the prospective groom realise he has gone missing and that they cannot remember the previous evening.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/47d2d1c3-8952-4479-956c-04b61b055f25-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/86a023d5-d757-4414-8c13-5b40ef4164dd-TheHangover_2009_Poster.jpeg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Danish",
-    "English CC"
+    "English CC",
+    "Danish"
    ],
    "ljud": [
-    "Japanese",
     "Korean",
-    "English",
+    "Japanese",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
-    "Spanish",
-    "French",
-    "Italian"
+    "English"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -647,14 +690,14 @@
   {
    "titel": "Zodiac",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Crime",
    "ar": 2007,
    "langd_min": 162,
    "genre": [
     "Crime"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 695811,
+   "imdb_roster": 696237,
    "imdb_id": "tt0443706",
    "regissor": "David Fincher",
    "roller": [
@@ -680,11 +723,11 @@
     "Korean"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -695,14 +738,14 @@
   {
    "titel": "Sentimental Value",
    "originaltitel": null,
-   "sas_kategori": "Scandinavian movies",
+   "sas_kategori": "Awarded & Nominated",
    "ar": 2025,
    "langd_min": 129,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 92664,
+   "imdb_roster": 92853,
    "imdb_id": "tt27714581",
    "regissor": "Joachim Trier, Lars Thomas Skare, Sunniva Sollied Møller",
    "roller": [
@@ -712,7 +755,7 @@
     "Anders Danielsen Lie"
    ],
    "beskrivning": "An intimate exploration of family, memories, and the reconciliatory power of art.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/661cdc32-ce63-4d96-8372-e6d0a924c53d-7e67b728-a821-497b-8ff4-20434b7dc432-sentimentalvaluekeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5ba530fc-4ab6-4e34-beb3-98630c34da8c-crop320x461.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
@@ -737,7 +780,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 422897,
+   "imdb_roster": 423012,
    "imdb_id": "tt1490017",
    "regissor": "Phil Lord, Christopher Miller",
    "roller": [
@@ -774,14 +817,14 @@
   {
    "titel": "Wreck-It Ralph",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Kids",
    "ar": 2012,
    "langd_min": 101,
    "genre": [
     "Kids"
    ],
    "imdb_betyg": 7.7,
-   "imdb_roster": 507640,
+   "imdb_roster": 507744,
    "imdb_id": "tt1772341",
    "regissor": "Rich Moore",
    "roller": [
@@ -798,13 +841,13 @@
     "English CC"
    ],
    "ljud": [
-    "Korean",
     "Japanese",
     "Swedish",
     "Norwegian",
     "English EAD",
     "Danish",
-    "English"
+    "English",
+    "Korean"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -813,16 +856,175 @@
    "ny": false
   },
   {
+   "titel": "How to Train Your Dragon (2025)",
+   "originaltitel": null,
+   "sas_kategori": "Kids",
+   "ar": 2025,
+   "langd_min": 125,
+   "genre": [
+    "Kids"
+   ],
+   "imdb_betyg": 7.7,
+   "imdb_roster": 143477,
+   "imdb_id": "tt26743210",
+   "regissor": "Dean DeBlois",
+   "roller": [
+    "Mason Thames",
+    "Nico Parker"
+   ],
+   "beskrivning": "Vikings and dragons have battled for generations, but that won't stop Hiccup from building an unlikely bond with the feared dragon, Toothless.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/40c5d22f-a7d3-4330-93cc-40f80647164c-HowToTrainYourDragon2025_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC"
+   ],
+   "ljud": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English EAD",
+    "Danish",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Empire Of The Sun",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 1987,
+   "langd_min": 152,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.7,
+   "imdb_roster": 145477,
+   "imdb_id": "tt0092965",
+   "regissor": "Steven Spielberg",
+   "roller": [
+    "Christian Bale",
+    "John Malkovich",
+    "Miranda Richardson",
+    "Joe Pantoliano",
+    "Ben Stiller",
+    "Leslie Phillips",
+    "Rupert Frazer",
+    "Ralph Seymour",
+    "Nigel Havers",
+    "Robert Stephens",
+    "David Neidorf"
+   ],
+   "beskrivning": "This epic drama chronicles Ballard's remarkable struggle to survive a childhood filled with betrayal, death and disappointment trapped in Shanghai during the World War II Japanese occupation.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6386f19b-2513-40b4-970c-b33ad64f527d-EmpireOfTheSun_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "Spanish (Spain)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Color Purple",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 1985,
+   "langd_min": 154,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.7,
+   "imdb_roster": 105767,
+   "imdb_id": "tt0088939",
+   "regissor": "Steven Spielberg",
+   "roller": [
+    "Danny Glover",
+    "Adolph Caesar",
+    "Margaret Avery",
+    "Whoopi Goldberg",
+    "Oprah Winfrey",
+    "Akosua Busia",
+    "Rae Dawn Chong"
+   ],
+   "beskrivning": "Academy Award winner Whoopi Goldberg, Danny Glover and Oprah Winfrey star in director Steven Spielberg's adaptation of Alice Walker's Pulitzer Prize-winning novel.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/bff3e028-23c2-4d2a-8d82-5eefc12bf22a-thecolorpurple_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Goonies",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 1985,
+   "langd_min": 113,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 7.7,
+   "imdb_roster": 332053,
+   "imdb_id": "tt0089218",
+   "regissor": "Richard Donner",
+   "roller": [
+    "Sean Astin",
+    "Josh Brolin",
+    "Jeff Cohen"
+   ],
+   "beskrivning": "With brothers Mikey and Brand's house slated for demolition by greedy land developers, the boys decide their only hope lies in finding a long-lost treasure.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8360eaa3-90ee-4e63-9196-df35f84c2c7e-thegoonies_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "One Battle After Another",
    "originaltitel": null,
-   "sas_kategori": "Awarded & Nominated",
+   "sas_kategori": "New Releases",
    "ar": 2025,
    "langd_min": 161,
    "genre": [
     "Action"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 454574,
+   "imdb_roster": 455255,
    "imdb_id": "tt30144839",
    "regissor": "Paul Thomas Anderson",
    "roller": [
@@ -835,21 +1037,21 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Traditional",
-    "Swedish",
-    "Norwegian",
-    "Korean",
     "Japanese",
     "English CC",
-    "Danish"
+    "Danish",
+    "Korean",
+    "Norwegian",
+    "Swedish",
+    "Chinese Traditional"
    ],
    "ljud": [
-    "English",
-    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-03-01",
    "tillganglig_till": "2027-02-28",
@@ -867,7 +1069,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 399346,
+   "imdb_roster": 399858,
    "imdb_id": "tt16311594",
    "regissor": "Joseph Kosinski",
    "roller": [
@@ -880,21 +1082,21 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "English",
-    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -903,73 +1105,16 @@
    "ny": false
   },
   {
-   "titel": "Harry Potter and the Half-Blood Prince",
-   "originaltitel": null,
-   "sas_kategori": "Action",
-   "ar": 2009,
-   "langd_min": 153,
-   "genre": [
-    "Action"
-   ],
-   "imdb_betyg": 7.6,
-   "imdb_roster": 674202,
-   "imdb_id": "tt0417741",
-   "regissor": "David Yates",
-   "roller": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Emma Watson",
-    "Jim Broadbent",
-    "Helena Bonham Carter",
-    "Robbie Coltrane",
-    "Warwick Davis",
-    "Michael Gambon",
-    "Alan Rickman",
-    "Maggie Smith",
-    "Timothy Spall",
-    "David Thewlis",
-    "Julie Walters",
-    "Tom Felton",
-    "Evanna Lynch",
-    "Bonnie Wright",
-    "Jessie Cave",
-    "Hero Fiennes-Tiffin",
-    "Frank Dillane"
-   ],
-   "beskrivning": "Harry Potter returns to Hogwarts for his sixth year--to face a growing danger that may be more than a match for his strengthening powers as a wizard.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b2489779-c634-4fd2-a462-fe07b4ec0f20-crop320x461.jpg",
-   "aldersgrans": "PG",
-   "barn": false,
-   "textning": [
-    "Japanese",
-    "English CC",
-    "Chinese Simplified",
-    "Korean"
-   ],
-   "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "German",
-    "English"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Just Mercy",
    "originaltitel": null,
-   "sas_kategori": "True Stories",
+   "sas_kategori": "Drama",
    "ar": 2019,
    "langd_min": 137,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 86312,
+   "imdb_roster": 86335,
    "imdb_id": "tt4916630",
    "regissor": "Destin Daniel Cretton",
    "roller": [
@@ -987,21 +1132,21 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "English CC",
+    "Japanese",
+    "Danish",
+    "Chinese Simplified",
     "Korean",
     "Norwegian",
-    "Swedish",
-    "Japanese",
-    "English CC",
-    "Danish",
-    "Chinese Simplified"
+    "Swedish"
    ],
    "ljud": [
-    "English",
-    "German",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "Italian",
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -1010,60 +1155,16 @@
    "ny": false
   },
   {
-   "titel": "All of Us Strangers",
-   "originaltitel": null,
-   "sas_kategori": "Pride Collection",
-   "ar": 2023,
-   "langd_min": 90,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 7.6,
-   "imdb_roster": 81814,
-   "imdb_id": "tt21192142",
-   "regissor": "Andrew Haigh",
-   "roller": [
-    "Andrew Scott",
-    "Paul Mescal",
-    "Jamie Bell"
-   ],
-   "beskrivning": "A chance encounter draws a man into his past in an inexplicable way.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/332dbc32-9470-4346-b102-2da84a9dec89-allofusstrangers_microsite_poster.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "Japanese",
-    "English CC",
-    "Danish",
-    "Korean",
-    "Norwegian",
-    "Swedish"
-   ],
-   "ljud": [
-    "English EAD",
-    "German",
-    "English",
-    "Spanish",
-    "French",
-    "Italian"
-   ],
-   "tillganglig_fran": "2026-07-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Rebel Without a Cause",
    "originaltitel": null,
-   "sas_kategori": "Silver Screen",
+   "sas_kategori": "Drama",
    "ar": 1955,
    "langd_min": 111,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 7.6,
-   "imdb_roster": 104581,
+   "imdb_roster": 104604,
    "imdb_id": "tt0048545",
    "regissor": "Nicholas Ray",
    "roller": [
@@ -1082,9 +1183,9 @@
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "English CC",
+    "Korean",
     "Japanese",
-    "Korean"
+    "English CC"
    ],
    "ljud": [
     "English"
@@ -1098,14 +1199,14 @@
   {
    "titel": "Sinners",
    "originaltitel": null,
-   "sas_kategori": "Awarded & Nominated",
+   "sas_kategori": "New Releases",
    "ar": 2025,
    "langd_min": 137,
    "genre": [
     "Horror"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 537309,
+   "imdb_roster": 538423,
    "imdb_id": "tt31193180",
    "regissor": "Ryan Coogler",
    "roller": [
@@ -1114,121 +1215,29 @@
     "Miles Caton"
    ],
    "beskrivning": "Twin brothers return to their hometown to discover that evil is waiting for them.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/01a97f44-3d25-4bc0-bfd0-40b3d9b70fe1-Sinnerskeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/ca7cefef-c9d7-4127-9746-d8dba7cafcb3-crop320x461.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
+    "Swedish",
+    "Norwegian",
     "Chinese Simplified",
     "Danish",
     "English CC",
     "Japanese",
-    "Korean",
-    "Norwegian",
-    "Swedish"
+    "Korean"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-03-01",
    "tillganglig_till": "2027-01-31",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "No Other Choice",
-   "originaltitel": null,
-   "sas_kategori": "SAS Recommends",
-   "ar": 2025,
-   "langd_min": 139,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 7.5,
-   "imdb_roster": 78292,
-   "imdb_id": "tt1527793",
-   "regissor": "Park Chan-wook",
-   "roller": [
-    "Lee Byung-hun",
-    "Son Ye-jin",
-    "Park Hee-soon",
-    "Lee Sung-min",
-    "Yeom Hye-ran",
-    "Cha Seung-won"
-   ],
-   "beskrivning": "Man-su sees his perfect life unravel after a corporate takeover leaves him jobless. As months pass and job prospects dwindle, desperation takes hold. Faced with losing everything, he devises a chilling solution: eliminate his rivals - literally!",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6d775473-256b-4e21-9973-fb6c991c760e-crop320x461.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "English",
-    "Chinese Simplified"
-   ],
-   "ljud": [
-    "Korean"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Harry Potter and the Order of the Phoenix",
-   "originaltitel": null,
-   "sas_kategori": "Action",
-   "ar": 2007,
-   "langd_min": 138,
-   "genre": [
-    "Action"
-   ],
-   "imdb_betyg": 7.5,
-   "imdb_roster": 715049,
-   "imdb_id": "tt0373889",
-   "regissor": "David Yates",
-   "roller": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Emma Watson",
-    "Helena Bonham Carter",
-    "Robbie Coltrane",
-    "Warwick Davis",
-    "Ralph Fiennes",
-    "Michael Gambon",
-    "Brendan Gleeson",
-    "Richard Griffiths",
-    "Jason Isaacs",
-    "Gary Oldman",
-    "Alan Rickman",
-    "Fiona Shaw",
-    "Maggie Smith",
-    "David Thewlis",
-    "Imelda Staunton"
-   ],
-   "beskrivning": "A summer has passed since Harry's encounter with the Dark Lord, and Harry returns to learn that the wizarding community remains in denial about Voldemort's return.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2ae9114b-f251-48a2-ad78-8b79fa0f808e-HarryPotterandtheOrderofthePhoenix_2007_Poster.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Chinese Simplified",
-    "English CC",
-    "Korean"
-   ],
-   "ljud": [
-    "Spanish",
-    "French",
-    "Italian",
-    "German",
-    "English"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -1242,7 +1251,7 @@
     "Science Fiction"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 318381,
+   "imdb_roster": 318452,
    "imdb_id": "tt0118884",
    "regissor": "Robert Zemeckis",
    "roller": [
@@ -1256,7 +1265,7 @@
     "Tom Skerritt"
    ],
    "beskrivning": "\"We are not alone...\" Two-time Academy Award-winner Jodie Foster and Hollywood's brightest new star, Matthew McConaughey, shine in this spellbinding drama of a dedicated astronomer's quest to make first Contact.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e6c4bfdf-2a27-46a9-a3a3-4844be4a0647-Contactkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e4e27b61-f8e7-49b5-9295-290995ad412e-crop320x461.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
@@ -1265,8 +1274,8 @@
    "ljud": [
     "English",
     "German",
-    "Italian",
-    "French"
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -1284,7 +1293,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.5,
-   "imdb_roster": 713393,
+   "imdb_roster": 713496,
    "imdb_id": "tt0988045",
    "regissor": "Guy Ritchie",
    "roller": [
@@ -1300,23 +1309,97 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Korean",
-    "Chinese Traditional",
     "English CC",
-    "Japanese"
+    "Japanese",
+    "Korean",
+    "Chinese Traditional"
    ],
    "ljud": [
-    "German",
     "English",
-    "Italian",
-    "French",
-    "Spanish"
+    "German",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
+  },
+  {
+   "titel": "Gohan",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2026,
+   "langd_min": 141,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.5,
+   "imdb_roster": 1131,
+   "imdb_id": "tt36958999",
+   "regissor": "Chayanop Boonprakob, Baz Poonpiriya, Atta Hemwadee",
+   "roller": [
+    "Yasushi Kitajima",
+    "Poe Mamhe Thar",
+    "Jinjett Wattanasin"
+   ],
+   "beskrivning": "A story of time passing, of hellos and goodbyes, and a dog who remembers it all.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d38d7ac3-e0fe-474a-ba2b-27d690cc6f57-Gohankeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Thai"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "42",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2013,
+   "langd_min": 128,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.5,
+   "imdb_roster": 110340,
+   "imdb_id": "tt0453562",
+   "regissor": "Brian Helgeland",
+   "roller": [
+    "Chadwick Boseman",
+    "Harrison Ford",
+    "Nicole Beharie"
+   ],
+   "beskrivning": "42 tells the story of two men — Jackie Robinson and Branch Rickey — whose brave stand against prejudice forever changed the world by changing the game of baseball.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/1858caca-8fbe-4f82-b8df-84f8d984e3a2-42_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "English CC",
+    "Korean",
+    "Chinese Traditional",
+    "Japanese"
+   ],
+   "ljud": [
+    "Italian",
+    "Spanish (Spain)",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-06-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Furiosa: A Mad Max Saga",
@@ -1328,7 +1411,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 329830,
+   "imdb_roster": 330034,
    "imdb_id": "tt12037194",
    "regissor": "George Miller",
    "roller": [
@@ -1353,9 +1436,9 @@
     "English",
     "German",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "Spanish (Spain)",
+    "Italian",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-02-28",
@@ -1373,7 +1456,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 554284,
+   "imdb_roster": 554483,
    "imdb_id": "tt1677720",
    "regissor": "Steven Spielberg",
    "roller": [
@@ -1382,7 +1465,7 @@
     "Ben Mendelsohn"
    ],
    "beskrivning": "Wade Watts is hurled into a reality-bending treasure hunt through the OASIS, a virtual reality universe, in hopes of winning an immense fortune.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/99a9d0e8-ef47-49d2-87a2-2715a217538f-ReadyPlayerOne_2018_Poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/71ebe840-b732-4631-aeab-1c946e404fa6-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
@@ -1393,8 +1476,8 @@
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
     "German",
     "English"
@@ -1408,14 +1491,14 @@
   {
    "titel": "Sherlock Holmes: A Game of Shadows",
    "originaltitel": null,
-   "sas_kategori": "Crime",
+   "sas_kategori": "Action",
    "ar": 2011,
    "langd_min": 121,
    "genre": [
     "Action & Adventure"
    ],
    "imdb_betyg": 7.4,
-   "imdb_roster": 506739,
+   "imdb_roster": 506806,
    "imdb_id": "tt1515091",
    "regissor": "Guy Ritchie",
    "roller": [
@@ -1433,16 +1516,16 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Japanese",
     "English CC",
+    "Japanese",
     "Chinese Traditional"
    ],
    "ljud": [
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian",
     "English",
-    "German",
-    "Spanish",
-    "French",
-    "Italian"
+    "German"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -1451,44 +1534,125 @@
    "ny": false
   },
   {
+   "titel": "Judas and the Black Messiah",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2021,
+   "langd_min": 125,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.4,
+   "imdb_roster": 116583,
+   "imdb_id": "tt9784798",
+   "regissor": "Shaka King",
+   "roller": [
+    "Daniel Kaluuya",
+    "Lakeith Stanfield",
+    "Jesse Plemons",
+    "Dominique Fishback",
+    "Ashton Sanders",
+    "Algee Smith",
+    "Darrel Britt-Gibson",
+    "Lil Rel Howery"
+   ],
+   "beskrivning": "A career thief revels in the danger of manipulating both his comrades and his handler, Special Agent Roy Mitchell.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8feae878-5ff4-4dca-8006-ad42b422b920-judasandtheblackmessiah_microsite_poster.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC"
+   ],
+   "ljud": [
+    "French (Parisian)",
+    "Italian",
+    "Japanese",
+    "Spanish (Spain)",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-06-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Weapons",
+   "originaltitel": null,
+   "sas_kategori": "Horror",
+   "ar": 2025,
+   "langd_min": 128,
+   "genre": [
+    "Horror"
+   ],
+   "imdb_betyg": 7.4,
+   "imdb_roster": 420571,
+   "imdb_id": "tt26581740",
+   "regissor": "Zach Cregger",
+   "roller": [
+    "Josh Brolin",
+    "Julia Garner",
+    "Alden Ehrenreich"
+   ],
+   "beskrivning": "When all but one child from the same class mysteriously vanish on the same night at 2:17 a.m., a community is left questioning who or what is behind their disappearance.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2c781916-89f6-4c5e-a263-7ab6dfe81089-Weapons_microsite_poster.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC",
+    "Japanese",
+    "Korean"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-06-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "Tenet",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Action",
    "ar": 2020,
    "langd_min": 150,
    "genre": [
     "Action"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 715011,
+   "imdb_roster": 715305,
    "imdb_id": "tt6723592",
    "regissor": "Christopher Nolan",
    "roller": [
     "John David Washington",
     "Robert Pattinson",
-    "Elizabeth Debicki",
-    "Dimple Kapadia",
-    "Fiona Dourif",
-    "Yuri Kolokolnikov",
-    "Himesh Patel",
-    "Clémence Poésy",
-    "Aaron Taylor-Johnson"
+    "Elizabeth Debicki"
    ],
    "beskrivning": "The Protagonist journeys through a twilight world of international espionage on a mission.",
    "affisch_url": "https://cdn.touchmicrosite.com/content-images/603f0e21-fb5c-4244-ba55-ed410db0f8ba-tenet_microsite_poster.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
+    "Japanese",
     "English CC",
-    "Japanese"
+    "Chinese Simplified"
    ],
    "ljud": [
     "English",
     "German",
     "English EAD",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian"
    ],
    "tillganglig_fran": "2026-05-01",
@@ -1507,7 +1671,7 @@
     "Romance"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 30843,
+   "imdb_roster": 30852,
    "imdb_id": "tt0071115",
    "regissor": "Martin Scorsese",
    "roller": [
@@ -1531,7 +1695,7 @@
     "English CC"
    ],
    "ljud": [
-    "French",
+    "French (Parisian)",
     "German",
     "English"
    ],
@@ -1551,7 +1715,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 405451,
+   "imdb_roster": 405605,
    "imdb_id": "tt2140479",
    "regissor": "Gavin O'Connor",
    "roller": [
@@ -1569,16 +1733,16 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC"
+    "English CC",
+    "Chinese Simplified"
    ],
    "ljud": [
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
     "German",
     "English",
-    "Italian",
-    "French",
-    "English EAD",
-    "Spanish"
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-04-30",
@@ -1596,7 +1760,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 12037,
+   "imdb_roster": 12076,
    "imdb_id": "tt34886821",
    "regissor": "Paolo Sorrentino",
    "roller": [
@@ -1605,12 +1769,12 @@
     "Orlando Cinque"
    ],
    "beskrivning": "Mariano De Santis is the President of the Italian Republic. As his term draws to a close, amid uneventful days, two final duties arise: deciding on two delicate petitions for a presidential pardon.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b1cc2489-3c4d-4085-b3ce-ca6678a8006a-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/27fe59ab-89de-42b3-99cb-1486959452e3-LaGraziakeyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
     "English CC",
-    "Spanish"
+    "Spanish (Spain)"
    ],
    "ljud": [
     "German",
@@ -1632,7 +1796,7 @@
     "Family"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 259486,
+   "imdb_roster": 259615,
    "imdb_id": "tt1262426",
    "regissor": "Jon M. Chu",
    "roller": [
@@ -1647,19 +1811,19 @@
    "textning": [
     "Japanese",
     "English CC",
-    "Danish",
-    "Chinese Simplified",
     "Korean",
     "Norwegian",
+    "Danish",
+    "Chinese Simplified",
     "Swedish"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
     "German",
-    "English"
+    "English",
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -1677,13 +1841,13 @@
     "Comedy"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 173580,
+   "imdb_roster": 173613,
    "imdb_id": "tt3521126",
    "regissor": "James Franco",
    "roller": [
-    "Seth Rogen",
-    "Dave Franco",
     "James Franco",
+    "Dave Franco",
+    "Seth Rogen",
     "Alison Brie"
    ],
    "beskrivning": "James Franco transforms the tragicomic true-story of aspiring filmmaker and infamous Hollywood outsider Tommy Wiseau into a celebration of friendship, artistic expression, and dreams pursued.",
@@ -1691,17 +1855,17 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
+    "Japanese",
     "English CC",
-    "Japanese"
+    "Chinese Simplified"
    ],
    "ljud": [
-    "German",
-    "English",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "English",
+    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -1719,7 +1883,7 @@
     "Kids"
    ],
    "imdb_betyg": 7.3,
-   "imdb_roster": 198819,
+   "imdb_roster": 198906,
    "imdb_id": "tt4116284",
    "regissor": "Chris McKay",
    "roller": [
@@ -1737,11 +1901,11 @@
     "English CC"
    ],
    "ljud": [
-    "Swedish",
-    "Norwegian",
-    "English EAD",
+    "English",
     "Danish",
-    "English"
+    "English EAD",
+    "Norwegian",
+    "Swedish"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
@@ -1750,66 +1914,299 @@
    "ny": false
   },
   {
-   "titel": "Fantastic Beasts and Where to Find Them",
+   "titel": "A Complete Unknown",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
-   "ar": 2016,
-   "langd_min": 133,
+   "sas_kategori": "True Stories",
+   "ar": 2024,
+   "langd_min": 141,
    "genre": [
-    "Action"
+    "Drama"
    ],
-   "imdb_betyg": 7.2,
-   "imdb_roster": 547410,
-   "imdb_id": "tt3183660",
-   "regissor": "David Yates",
+   "imdb_betyg": 7.3,
+   "imdb_roster": 123666,
+   "imdb_id": "tt11563598",
+   "regissor": "James Mangold",
    "roller": [
-    "Eddie Redmayne",
-    "Katherine Waterston",
-    "Alison Sudol",
-    "Dan Fogler",
-    "Colin Farrell",
-    "Ezra Miller",
-    "Samantha Morton",
-    "Jenn Murray",
-    "Faith Wood-Blagrove"
+    "Timothée Chalamet",
+    "Edward Norton",
+    "Elle Fanning"
    ],
-   "beskrivning": "Newt Scamander's magical beasts are inadvertently let loose in 1926 New York.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/74673370-3813-4cfa-9403-63ad23789484-fantasticbeastsandwheretofindthem_microsite_poster.jpg",
-   "aldersgrans": "PG-13",
+   "beskrivning": "Timothée Chalamet stars as a young Bob Dylan in early 1960s New York.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/55f7b303-d7be-456f-9896-11c01ce89b8f-ACompleteUnknown_microsite_poster.jpg",
+   "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
     "English CC",
     "Japanese",
+    "Korean",
     "Norwegian",
+    "Danish",
+    "Chinese Simplified",
     "Swedish"
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
     "German",
     "English"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Toy Story 5",
+   "originaltitel": null,
+   "sas_kategori": "New Releases",
+   "ar": 2026,
+   "langd_min": 120,
+   "genre": [
+    "Kids"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 105245,
+   "imdb_id": "tt29355505",
+   "regissor": "Andrew Stanton",
+   "roller": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+   ],
+   "beskrivning": "It’s Toy meets Tech in Disney and Pixar’s “Toy Story 5.”",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/79e43b72-de0e-4ba2-928c-335c8bf99b04-crop320x461.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC",
+    "Korean"
+   ],
+   "ljud": [
+    "English",
+    "Danish",
+    "English EAD",
+    "Japanese",
+    "Norwegian",
+    "Swedish"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Gremlins",
+   "originaltitel": null,
+   "sas_kategori": "Horror",
+   "ar": 1984,
+   "langd_min": 106,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 279408,
+   "imdb_id": "tt0087363",
+   "regissor": "Joe Dante",
+   "roller": [
+    "Zach Galligan",
+    "Phoebe Cates",
+    "Hoyt Axton",
+    "Glynn Turman",
+    "Jonathan Banks",
+    "Corey Feldman",
+    "Judge Reinhold",
+    "Polly Holliday",
+    "Keye Luke",
+    "Dick Miller",
+    "Scott Brady",
+    "Edward Andrews",
+    "Frances Lee McCain"
+   ],
+   "beskrivning": "With its Christmas lights and dusting of snow, Kingston Falls is an idyllic small town--until the gremlins take over.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/c4b50d88-ab1f-441d-b538-c50f04fd3002-gremlins_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Invictus",
+   "originaltitel": null,
+   "sas_kategori": "True Stories",
+   "ar": 2009,
+   "langd_min": 133,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 176048,
+   "imdb_id": "tt1057500",
+   "regissor": "Clint Eastwood",
+   "roller": [
+    "Morgan Freeman",
+    "Matt Damon"
+   ],
+   "beskrivning": "Two-time Academy Award winner Clint Eastwood directs Academy Award winners Matt Damon and Morgan Freeman in a deeply moving true story of two men who unite to heal the wounds of a nation.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/ff652713-3dd0-4d5a-9352-f001880b92cd-invictus_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Chinese Traditional",
+    "English CC",
+    "Japanese"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-06-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Sheep Detectives",
+   "originaltitel": null,
+   "sas_kategori": "Crime",
+   "ar": 2026,
+   "langd_min": 109,
+   "genre": [
+    "Family"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 124872,
+   "imdb_id": "tt32565993",
+   "regissor": "Kyle Balda",
+   "roller": [
+    "Hugh Jackman",
+    "Nicholas Braun",
+    "Nicholas Galitzine"
+   ],
+   "beskrivning": "In this witty, new breed of mystery, George is a shepherd who reads detective novels to his beloved sheep every night, assuming they can’t possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5b155bbc-977d-4aac-8831-03522f218470-crop320x461.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "German",
+    "English",
+    "Italian",
+    "English EAD",
+    "French (Parisian)",
+    "Spanish (Spain)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Silent Friend",
+   "originaltitel": null,
+   "sas_kategori": "True Stories",
+   "ar": 2026,
+   "langd_min": 157,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 4082,
+   "imdb_id": "tt27811632",
+   "regissor": "Ildikó Enyedi",
+   "roller": [
+    "Tony Leung Chiu-wai",
+    "Luna Wedler",
+    "Enzo Brumm"
+   ],
+   "beskrivning": "A majestic gingko tree bears witness to three generations of people as they explore the hidden secrets of botanical life.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/7ceece02-581a-4016-a106-2e88212bd7c2-SilentFriendkeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Le Rêve Américain",
+   "originaltitel": null,
+   "sas_kategori": "International movies",
+   "ar": 2026,
+   "langd_min": 122,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 7.3,
+   "imdb_roster": 1930,
+   "imdb_id": "tt36313062",
+   "regissor": "Anthony Marciano",
+   "roller": [
+    "Jean-Pascal Zadi",
+    "Raphaël Quenard",
+    "Djibi Diakhaté"
+   ],
+   "beskrivning": "No one would have bet on Jérémy, behind the counter of a video rental shop in Amiens, or on Bouna doing cleaning jobs at Orly Airport. With no connections, no money, and rough English, nothing predestined them to become agents who matter in the NBA.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/78b86ade-bc26-4780-a382-81318d58270d-TheAmericanDreamkeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "A.I. Artificial Intelligence",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Sci-fi",
    "ar": 2001,
    "langd_min": 145,
    "genre": [
     "Science Fiction"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 344342,
+   "imdb_roster": 344429,
    "imdb_id": "tt0212720",
    "regissor": "Steven Spielberg",
    "roller": [
@@ -1829,10 +2226,10 @@
     "Chinese Traditional"
    ],
    "ljud": [
-    "English",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
-    "Spanish",
-    "French",
+    "English",
     "Italian",
     "Japanese"
    ],
@@ -1845,14 +2242,14 @@
   {
    "titel": "I Am Legend",
    "originaltitel": null,
-   "sas_kategori": "Action",
+   "sas_kategori": "Sci-fi",
    "ar": 2007,
    "langd_min": 100,
    "genre": [
     "Science Fiction"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 892085,
+   "imdb_roster": 892343,
    "imdb_id": "tt0480249",
    "regissor": "Francis Lawrence",
    "roller": [
@@ -1868,14 +2265,14 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "English CC",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English CC"
    ],
    "ljud": [
-    "Italian",
-    "French",
+    "English",
     "German",
-    "English"
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -1893,7 +2290,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 4084,
+   "imdb_roster": 4088,
    "imdb_id": "tt30810787",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -1920,14 +2317,14 @@
   {
    "titel": "Tokyo Taxi",
    "originaltitel": null,
-   "sas_kategori": "Drama",
+   "sas_kategori": "International movies",
    "ar": 2025,
    "langd_min": 104,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 7.2,
-   "imdb_roster": 924,
+   "imdb_roster": 932,
    "imdb_id": "tt35521394",
    "regissor": "Yoji Yamada",
    "roller": [
@@ -1936,7 +2333,7 @@
     "Yu Aoi"
    ],
    "beskrivning": "Taxi driver Koji Usami works long hours to support his family, but rising expenses leave him increasingly strained. Filling in for a colleague, he picks up 85-year-old Sumire Takano in Shibamata, who asks to be driven to Hayama to enter a nursing home.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b891e1e3-e648-4be1-93ee-034167a32495-TokyoTaxikeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b8bfe8ea-76d3-466c-96d2-0016b7a8005a-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
@@ -1953,64 +2350,26 @@
    "ny": false
   },
   {
-   "titel": "The Penguin Lessons",
+   "titel": "Home",
    "originaltitel": null,
-   "sas_kategori": "Drama",
-   "ar": 2024,
-   "langd_min": 110,
+   "sas_kategori": "Scandinavian movies",
+   "ar": 2026,
+   "langd_min": 101,
    "genre": [
     "Drama"
    ],
-   "imdb_betyg": 7.1,
-   "imdb_roster": 12628,
-   "imdb_id": "tt26677014",
-   "regissor": "Peter Cattaneo",
+   "imdb_betyg": 7.2,
+   "imdb_roster": 299,
+   "imdb_id": "tt39379299",
+   "regissor": null,
    "roller": [
-    "Steve Coogan",
-    "Jonathan Pryce",
-    "Alfonsina Carrocio"
+    "Marijana Jankovic",
+    "Dejan Cukic",
+    "Zlatko Buric"
    ],
-   "beskrivning": "A disillusioned Englishman who goes to work in a school in a divided Argentina in 1976 finds his life transformed when he rescues an orphaned penguin from the beach.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d5e30781-56e7-4bb5-90c1-42b09c48a929-ThePenguinLessonskeyart.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Swedish",
-    "Norwegian",
-    "English CC",
-    "Danish",
-    "Chinese Traditional"
-   ],
-   "ljud": [
-    "English",
-    "English EAD"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "The Last Viking",
-   "originaltitel": null,
-   "sas_kategori": "Scandinavian movies",
-   "ar": 2025,
-   "langd_min": 111,
-   "genre": [
-    "Comedy"
-   ],
-   "imdb_betyg": 7.1,
-   "imdb_roster": 18270,
-   "imdb_id": "tt27817389",
-   "regissor": "Anders Thomas Jensen",
-   "roller": [
-    "Nikolaj Lie Kaas",
-    "Bodil Jørgensen"
-   ],
-   "beskrivning": "Anker is released after 15 years in prison for robbery. Anker’s brother, Manfred, is the only one who knows where the money from the robbery is located. But in the meantime he has been affected by a mental challenge that makes him no longer aware of where it is hidden.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/cdb8c9d0-396c-4b5a-8360-2415ff0f24fc-crop320x461.jpg",
-   "aldersgrans": "NC-17",
+   "beskrivning": "Maja travels with her parents to Denmark, leaving her two older brothers behind with the promise of a speedy reunion. Many years later, she has become a successful artist in Denmark, but behind her success lies a conflict between joy, sorrow, and gratitude for the life she has been given.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e94faf40-927c-4a05-807e-12197ed5df32-crop320x461.jpg",
+   "aldersgrans": "NR",
    "barn": false,
    "textning": [
     "English"
@@ -2018,11 +2377,11 @@
    "ljud": [
     "Danish"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Love",
@@ -2034,7 +2393,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 2258,
+   "imdb_roster": 2262,
    "imdb_id": "tt30810792",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -2043,7 +2402,7 @@
     "Marte Engebrigtsen-Heidi"
    ],
    "beskrivning": "A single woman seeks intimacy without commitment until two men challenge her views on love and freedom.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a5017966-1845-4a37-96bf-0247ffa3641a-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/106bdc49-a88b-4a36-9979-b1bdd064b176-Lovekeyart.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -2061,14 +2420,14 @@
   {
    "titel": "Once We Were Us",
    "originaltitel": null,
-   "sas_kategori": "International movies",
+   "sas_kategori": "Romance",
    "ar": 2025,
    "langd_min": 114,
    "genre": [
     "Romance"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 1201,
+   "imdb_roster": 1207,
    "imdb_id": "tt37764737",
    "regissor": "Kim Do-young",
    "roller": [
@@ -2076,12 +2435,12 @@
     "Mun Ka-young"
    ],
    "beskrivning": "Eun-ho boards a bus to his hometown, while Jeong-won, on a break from college, sets off with no destination in mind. A chance seating brings them together and a quiet connection grows.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6f0df568-c944-4bda-b05d-dbdc14509fa4-OnceWeWereUskeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/564cb784-72ba-476a-a439-823dfdf3ffac-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "English CC",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English CC"
    ],
    "ljud": [
     "Korean"
@@ -2102,7 +2461,7 @@
     "Comedy"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 311365,
+   "imdb_roster": 311548,
    "imdb_id": "tt2005151",
    "regissor": "Todd Phillips",
    "roller": [
@@ -2113,22 +2472,22 @@
     "Eddie Jemison"
    ],
    "beskrivning": "Based on a true story that follows two Miami stoners who exploit a little-known government initiative during the Iraq War that allows small businesses to bid on U.S. Military contracts.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/3f8655b9-58a4-4e72-9026-e05e69cf9885-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/84c1c5e5-a287-4b2f-9bfd-24f056da0376-WarDogskeyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
     "Japanese",
-    "English"
+    "English",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "Japanese",
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian",
+    "Japanese",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -2146,7 +2505,7 @@
     "Drama"
    ],
    "imdb_betyg": 7.1,
-   "imdb_roster": 2028,
+   "imdb_roster": 2042,
    "imdb_id": "tt33586629",
    "regissor": "Damiano Michieletto",
    "roller": [
@@ -2171,16 +2530,167 @@
    "ny": false
   },
   {
-   "titel": "Juror #2",
+   "titel": "The King’s Warden",
+   "originaltitel": null,
+   "sas_kategori": "International movies",
+   "ar": 2026,
+   "langd_min": 117,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.1,
+   "imdb_roster": 1704,
+   "imdb_id": "tt38626703",
+   "regissor": "Chang Hang-jun",
+   "roller": [
+    "Yoo Hai-jin",
+    "Park Ji-hoon",
+    "Yoo Ji-tae",
+    "Jeon Mi-do"
+   ],
+   "beskrivning": "After a violent coup, King Yi Hong-wi is dethroned and sent into exile. Village chief Eom volunteers Cheongnyeongpo as a place of exile, hoping it will bring great fortune. But instead of a powerful noble, he receives the fallen royal.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/58f5f80b-9612-47c2-99af-6718af0b8d6b-TheKingsWardenkeyart.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "English",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "Korean"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Elf",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2003,
+   "langd_min": 97,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 7.1,
+   "imdb_roster": 350485,
+   "imdb_id": "tt0319343",
+   "regissor": "Jon Favreau",
+   "roller": [
+    "Will Ferrell",
+    "James Caan",
+    "Zooey Deschanel",
+    "Mary Steenburgen",
+    "Ed Asner"
+   ],
+   "beskrivning": "Raised as an elf, Buddy grows into an adult and realizes that he will never truly fit in at the North Pole.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/715ef95e-50ee-4a22-a6ad-8568fcdd4230-Elf_2003_Poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Chinese Traditional",
+    "Danish",
+    "English CC",
+    "Japanese"
+   ],
+   "ljud": [
+    "Spanish (Spain)",
+    "English EAD",
+    "German",
+    "French (Parisian)",
+    "Italian",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Blue Heron",
+   "originaltitel": null,
+   "sas_kategori": "Awarded & Nominated",
+   "ar": 2025,
+   "langd_min": 91,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.1,
+   "imdb_roster": 4078,
+   "imdb_id": "tt32252801",
+   "regissor": "Sophy Romvari",
+   "roller": [
+    "Eylul Guven",
+    "Iringó Réti",
+    "Amy Zimmer"
+   ],
+   "beskrivning": "A family of six settles into their new home on Vancouver Island as internal dynamics are slowly revealed through the eyes of the youngest child.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/fb564307-8f9a-48ae-9b69-20db7e7b5d39-BlueHeronkeyart.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Last One for the Road",
    "originaltitel": null,
    "sas_kategori": "Crime",
+   "ar": 2026,
+   "langd_min": 100,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.1,
+   "imdb_roster": 3672,
+   "imdb_id": "tt36491632",
+   "regissor": "Francesco Sossai",
+   "roller": [
+    "Filippo Scotti",
+    "Sergio Romano",
+    "Pierpaolo Capovilla"
+   ],
+   "beskrivning": "Carlobianchi and Doriano, two broke fiftysomethings with a “never skip the last drink” philosophy, meet Giulio, a shy architecture student adrift in life. What starts as a chance encounter turns into a chaotic road trip through the Venetian plains.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/3f815cce-b4dd-482d-a707-ff5900343b93-crop320x461.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Juror #2",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
    "ar": 2024,
    "langd_min": 113,
    "genre": [
     "Crime"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 133032,
+   "imdb_roster": 133156,
    "imdb_id": "tt27403986",
    "regissor": "Clint Eastwood",
    "roller": [
@@ -2190,98 +2700,29 @@
     "Kiefer Sutherland"
    ],
    "beskrivning": "Justin Kemp finds himself struggling with a serious moral dilemma.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d162e571-867a-48b5-8e3c-c51372129803-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2aa27c91-afb6-4192-b21f-858568c64d25-Juror2_2024_Poster.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "English EAD",
-    "German",
+    "Italian",
     "English",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-03-01",
    "tillganglig_till": "2027-02-28",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Sound of Falling",
-   "originaltitel": null,
-   "sas_kategori": "Drama",
-   "ar": 2025,
-   "langd_min": 149,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 7.0,
-   "imdb_roster": 7159,
-   "imdb_id": "tt28690468",
-   "regissor": "Mascha Schilinski",
-   "roller": [
-    "Hanna Heckt",
-    "Lena Urzendowsky",
-    "Laeni Geiseler"
-   ],
-   "beskrivning": "Four girls, Alma, Erika, Angelika, and Lenka, each spend their youth on the same farm in northern Germany. As the home evolves over a century, echoes of the past linger in its walls. Though separated by time, their lives begin to mirror each other.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/56aeaf5e-9840-4353-bbb1-debbfa094521-SoundOfFallingkeyart.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "English"
-   ],
-   "ljud": [
-    "German"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "All We Imagine as Light",
-   "originaltitel": null,
-   "sas_kategori": "International",
-   "ar": 2024,
-   "langd_min": 118,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 7.0,
-   "imdb_roster": 14506,
-   "imdb_id": "tt32086077",
-   "regissor": "Payal Kapadia",
-   "roller": [
-    "Kani Kusruti",
-    "Divya Prabha",
-    "Chhaya Kadam"
-   ],
-   "beskrivning": "In Mumbai, two Malayali nurses and a struggling cook navigate love, identity, and societal pressures. Prabha longs for her estranged husband, Anu hides an interfaith romance, and Parvathy faces eviction.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/7102dc31-0eb0-4d68-b073-0ece73bea1b6-AllWeImagineAsLight_microsite_poster.jpg",
-   "aldersgrans": "NR",
-   "barn": false,
-   "textning": [
-    "English",
-    "Korean"
-   ],
-   "ljud": [
-    "Malayalam"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -2295,7 +2736,7 @@
     "Thriller"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 39179,
+   "imdb_roster": 39292,
    "imdb_id": "tt32298285",
    "regissor": "Oliver Laxe",
    "roller": [
@@ -2304,14 +2745,14 @@
     "Stefania Gadda"
    ],
    "beskrivning": "A father, accompanied by his son, goes looking for his missing daughter at a desert rave in North Africa.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d18b562a-c0a3-45a8-a0b7-02f1d9e4b140-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/09c2e2ac-bd09-4829-a2c8-fa61c8fae867-Siratkeyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
     "English"
    ],
    "ljud": [
-    "Spanish"
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -2322,14 +2763,14 @@
   {
    "titel": "Red, White & Royal Blue",
    "originaltitel": null,
-   "sas_kategori": "Pride Collection",
+   "sas_kategori": "Comedy",
    "ar": 2023,
    "langd_min": 112,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 68227,
+   "imdb_roster": 68260,
    "imdb_id": "tt10172266",
    "regissor": "Matthew López",
    "roller": [
@@ -2350,11 +2791,11 @@
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "French (Parisian)",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -2373,7 +2814,7 @@
     "Crime"
    ],
    "imdb_betyg": 7.0,
-   "imdb_roster": 532792,
+   "imdb_roster": 532949,
    "imdb_id": "tt1723121",
    "regissor": "Rawson Marshall Thurber",
    "roller": [
@@ -2391,18 +2832,97 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "English",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English"
    ],
    "ljud": [
-    "French",
-    "Spanish",
     "German",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "English",
     "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-10-24",
+   "ny": false
+  },
+  {
+   "titel": "Superman",
+   "originaltitel": null,
+   "sas_kategori": "Adventure",
+   "ar": 2025,
+   "langd_min": 129,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 7.0,
+   "imdb_roster": 453284,
+   "imdb_id": "tt5950044",
+   "regissor": "James Gunn",
+   "roller": [
+    "David Corenswet",
+    "Rachel Brosnahan",
+    "Nicholas Hoult"
+   ],
+   "beskrivning": "A Superman who's driven by compassion and an inherent belief in the goodness of humankind.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9ab98023-8bd6-4549-988a-6cc3ea3ef090-Superman2025_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "German",
+    "English",
+    "Spanish (Spain)",
+    "Italian",
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "All We Imagine as Light",
+   "originaltitel": null,
+   "sas_kategori": "Awarded & Nominated",
+   "ar": 2024,
+   "langd_min": 118,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 7.0,
+   "imdb_roster": 14517,
+   "imdb_id": "tt32086077",
+   "regissor": "Payal Kapadia",
+   "roller": [
+    "Kani Kusruti",
+    "Divya Prabha",
+    "Chhaya Kadam"
+   ],
+   "beskrivning": "In Mumbai, two Malayali nurses and a struggling cook navigate love, identity, and societal pressures. Prabha longs for her estranged husband, Anu hides an interfaith romance, and Parvathy faces eviction.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/7102dc31-0eb0-4d68-b073-0ece73bea1b6-AllWeImagineAsLight_microsite_poster.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "Korean",
+    "English"
+   ],
+   "ljud": [
+    "Malayalam"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-02-28",
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
@@ -2417,7 +2937,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 195178,
+   "imdb_roster": 195560,
    "imdb_id": "tt26584495",
    "regissor": "Drew Hancock",
    "roller": [
@@ -2430,56 +2950,22 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Korean",
-    "Norwegian",
     "Swedish",
-    "Japanese",
-    "English CC",
+    "Chinese Simplified",
     "Danish",
-    "Chinese Simplified"
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian"
    ],
    "ljud": [
-    "English",
+    "French (Parisian)",
     "German",
-    "French"
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Madly",
-   "originaltitel": null,
-   "sas_kategori": "International",
-   "ar": 2025,
-   "langd_min": 96,
-   "genre": [
-    "Comedy"
-   ],
-   "imdb_betyg": 6.9,
-   "imdb_roster": 6061,
-   "imdb_id": "tt34621892",
-   "regissor": "Paolo Genovese",
-   "roller": [
-    "Edoardo Leo",
-    "Emanuela Fanelli",
-    "Pilar Fogliati"
-   ],
-   "beskrivning": "How well do we know ourselves when making decisions? What if multiple versions of us had their own opinions? FolleMente is a romantic comedy diving into the minds of Piero and Lara, revealing hidden thoughts and the inner battles we all face.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8f8a186b-569c-48e0-b742-fc4e18168f9b-MADLY_copy.jpg",
-   "aldersgrans": "NR",
-   "barn": false,
-   "textning": [
-    "English"
-   ],
-   "ljud": [
-    "Italian"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -2493,7 +2979,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 286668,
+   "imdb_roster": 286840,
    "imdb_id": "tt2704998",
    "regissor": "John Francis Daley, Jonathan Goldstein",
    "roller": [
@@ -2516,20 +3002,20 @@
    "barn": false,
    "textning": [
     "Chinese Simplified",
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
+    "Danish",
     "English CC",
-    "Danish"
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -2540,14 +3026,14 @@
   {
    "titel": "Horrible Bosses",
    "originaltitel": null,
-   "sas_kategori": "Crime",
+   "sas_kategori": "Comedy",
    "ar": 2011,
    "langd_min": 98,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 493151,
+   "imdb_roster": 493253,
    "imdb_id": "tt1499658",
    "regissor": "Seth Gordon",
    "roller": [
@@ -2574,8 +3060,8 @@
    "ljud": [
     "Japanese",
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
     "English"
    ],
@@ -2588,14 +3074,14 @@
   {
    "titel": "People and Meat",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "International movies",
    "ar": 2025,
    "langd_min": 107,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 122,
+   "imdb_roster": 126,
    "imdb_id": "tt36591539",
    "regissor": "Yang Jong-hyun",
    "roller": [
@@ -2604,7 +3090,7 @@
     "Ye Su-jeong"
    ],
    "beskrivning": "In Seoul, three elderly loners, Woo-sik, Hyoung-jun and Hwa-jin struggle to survive by collecting cardboard and selling vegetables. United by poverty and hunger, they hatch a bold plan: dine at upscale restaurants and slip away without paying.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e1f1b34c-aeda-486a-9e45-ea31098faa91-PeopleandMeatkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/154b8ed2-2479-413d-bd7b-06e97629659c-PeopleandMeatkeyart.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
@@ -2630,7 +3116,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 108531,
+   "imdb_roster": 108546,
    "imdb_id": "tt0477302",
    "regissor": "Stephen Daldry",
    "roller": [
@@ -2651,12 +3137,12 @@
     "English CC"
    ],
    "ljud": [
-    "Japanese",
-    "Italian",
-    "French",
-    "Spanish",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian",
+    "Japanese"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-04-30",
@@ -2667,14 +3153,14 @@
   {
    "titel": "Nino",
    "originaltitel": null,
-   "sas_kategori": "International movies",
+   "sas_kategori": "Drama",
    "ar": 2025,
    "langd_min": 97,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.9,
-   "imdb_roster": 1258,
+   "imdb_roster": 1262,
    "imdb_id": "tt35519445",
    "regissor": "Pauline Loquès",
    "roller": [
@@ -2690,7 +3176,7 @@
     "English"
    ],
    "ljud": [
-    "French"
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -2699,61 +3185,16 @@
    "ny": false
   },
   {
-   "titel": "The Fall Guy",
-   "originaltitel": null,
-   "sas_kategori": "Comedy",
-   "ar": 2024,
-   "langd_min": 126,
-   "genre": [
-    "Comedy"
-   ],
-   "imdb_betyg": 6.8,
-   "imdb_roster": 276640,
-   "imdb_id": "tt1684562",
-   "regissor": "David Leitch",
-   "roller": [
-    "Ryan Gosling",
-    "Emily Blunt",
-    "Aaron Taylor-Johnson"
-   ],
-   "beskrivning": "A stuntman must track down a missing movie star, solve a conspiracy, and win back the love of his life while still doing his day job in this action-packed thrill ride.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/fccaadcf-690f-4bd2-add2-bc87854209ab-TheFallGuy_2024_Poster.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
-    "Norwegian",
-    "Swedish"
-   ],
-   "ljud": [
-    "German",
-    "English",
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Barbie",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Action",
    "ar": 2023,
    "langd_min": 114,
    "genre": [
     "Action & Adventure"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 709834,
+   "imdb_roster": 710090,
    "imdb_id": "tt1517268",
    "regissor": "Greta Gerwig",
    "roller": [
@@ -2766,8 +3207,8 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
     "Japanese",
+    "Chinese Simplified",
     "Korean",
     "Norwegian",
     "Danish",
@@ -2775,12 +3216,12 @@
     "English CC"
    ],
    "ljud": [
-    "Spanish",
-    "Italian",
-    "English EAD",
     "English",
     "German",
-    "French"
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "Italian",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -2791,14 +3232,14 @@
   {
    "titel": "Black Mass",
    "originaltitel": null,
-   "sas_kategori": "True Stories",
+   "sas_kategori": "Thriller",
    "ar": 2015,
    "langd_min": 122,
    "genre": [
     "Crime"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 204823,
+   "imdb_roster": 204881,
    "imdb_id": "tt1355683",
    "regissor": "Scott Cooper",
    "roller": [
@@ -2818,15 +3259,15 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "English CC",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "English CC"
    ],
    "ljud": [
     "English",
     "German",
     "English EAD",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian",
     "Japanese",
     "Korean"
@@ -2847,7 +3288,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 81122,
+   "imdb_roster": 81143,
    "imdb_id": "tt8912936",
    "regissor": "Jared Stern",
    "roller": [
@@ -2867,17 +3308,17 @@
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
     "English CC",
     "Japanese",
-    "Korean"
+    "Korean",
+    "Chinese Simplified"
    ],
    "ljud": [
+    "English",
     "Swedish",
-    "Norwegian",
-    "English EAD",
     "Danish",
-    "English"
+    "English EAD",
+    "Norwegian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -2888,14 +3329,14 @@
   {
    "titel": "Love Letters",
    "originaltitel": null,
-   "sas_kategori": "SAS Recommends",
+   "sas_kategori": "Drama",
    "ar": 2025,
    "langd_min": 97,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 945,
+   "imdb_roster": 950,
    "imdb_id": "tt34762801",
    "regissor": "Alice Douard",
    "roller": [
@@ -2911,7 +3352,7 @@
     "English"
    ],
    "ljud": [
-    "French"
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -2929,7 +3370,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 73750,
+   "imdb_roster": 73779,
    "imdb_id": "tt4624424",
    "regissor": "Nicholas Stoller, Doug Sweetland",
    "roller": [
@@ -2951,11 +3392,11 @@
     "Chinese Simplified"
    ],
    "ljud": [
-    "Swedish",
-    "Norwegian",
-    "English EAD",
+    "English",
     "Danish",
-    "English"
+    "English EAD",
+    "Norwegian",
+    "Swedish"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -2973,7 +3414,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 410665,
+   "imdb_roster": 410794,
    "imdb_id": "tt1068680",
    "regissor": "Peyton Reed",
    "roller": [
@@ -2990,17 +3431,17 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC",
     "Japanese",
-    "Korean"
+    "Korean",
+    "Chinese Simplified",
+    "English CC"
    ],
    "ljud": [
+    "Italian",
     "English",
     "German",
-    "Italian",
-    "French",
-    "Spanish"
+    "French (Parisian)",
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -3018,7 +3459,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 2374,
+   "imdb_roster": 2379,
    "imdb_id": "tt29279903",
    "regissor": "Neo Sora",
    "roller": [
@@ -3045,61 +3486,16 @@
    "ny": false
   },
   {
-   "titel": "Crime 101",
-   "originaltitel": null,
-   "sas_kategori": "Adventure",
-   "ar": 2026,
-   "langd_min": 140,
-   "genre": [
-    "Action & Adventure"
-   ],
-   "imdb_betyg": 6.8,
-   "imdb_roster": 99658,
-   "imdb_id": "tt32430579",
-   "regissor": "Bart Layton",
-   "roller": [
-    "Chris Hemsworth",
-    "Mark Ruffalo",
-    "Barry Keoghan"
-   ],
-   "beskrivning": "Set against the sun-bleached grit of Los Angeles, Crime 101 weaves the tale of an elusive jewel thief (Chris Hemsworth) whose string of heists along the 101 freeway have mystified police.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/292aa512-c49f-4314-942c-ba008998caeb-Crime101keyart.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "Korean",
-    "Japanese",
-    "English CC",
-    "Danish",
-    "Chinese Simplified",
-    "Norwegian",
-    "Swedish"
-   ],
-   "ljud": [
-    "English EAD",
-    "Spanish",
-    "German",
-    "English",
-    "Italian",
-    "Hindi"
-   ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
    "titel": "Ramen Shop",
    "originaltitel": null,
-   "sas_kategori": "International movies",
+   "sas_kategori": "Drama",
    "ar": 2018,
    "langd_min": 90,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 2852,
+   "imdb_roster": 2855,
    "imdb_id": "tt6720618",
    "regissor": "Eric Khoo",
    "roller": [
@@ -3133,7 +3529,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.8,
-   "imdb_roster": 3703,
+   "imdb_roster": 3710,
    "imdb_id": "tt32538648",
    "regissor": "Carla Simón",
    "roller": [
@@ -3149,13 +3545,57 @@
     "English"
    ],
    "ljud": [
-    "Spanish"
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
+  },
+  {
+   "titel": "The Color Purple",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2023,
+   "langd_min": 141,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 6.8,
+   "imdb_roster": 20964,
+   "imdb_id": "tt1200263",
+   "regissor": "Blitz Bazawule",
+   "roller": [
+    "Taraji P. Henson",
+    "Danielle Brooks",
+    "Colman Domingo"
+   ],
+   "beskrivning": "Torn apart from her sister Nettie and her children, Celie faces many hardships in her life. Celie ultimately finds strength in the unbreakable bonds of a new kind of sisterhood.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/76ce9df1-dfa1-484e-986b-25e0ece1bb92-thecolorpurple_microsite_poster.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Korean",
+    "Swedish",
+    "Chinese Simplified",
+    "Danish",
+    "English CC",
+    "Japanese"
+   ],
+   "ljud": [
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Mickey 17",
@@ -3167,7 +3607,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 269560,
+   "imdb_roster": 269957,
    "imdb_id": "tt12299608",
    "regissor": "Bong Joon Ho",
    "roller": [
@@ -3176,25 +3616,25 @@
     "Michael Monroe"
    ],
    "beskrivning": "The unlikely hero, Mickey Barnes has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job... to die, for a living.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/1631bc81-be1c-4205-ae0f-140484886fdf-Mickey17keyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/83dfacba-92fd-4ad8-be2d-347d7685a0c9-Mickey17keyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -3205,14 +3645,14 @@
   {
    "titel": "The Room Next Door",
    "originaltitel": null,
-   "sas_kategori": "Awarded & Nominated",
+   "sas_kategori": "Drama",
    "ar": 2024,
    "langd_min": 107,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 29634,
+   "imdb_roster": 29662,
    "imdb_id": "tt29439114",
    "regissor": "Pedro Almodóvar",
    "roller": [
@@ -3226,56 +3666,22 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "Norwegian",
+    "Swedish",
     "Chinese Traditional",
     "Danish",
     "English CC",
-    "Korean",
-    "Norwegian",
-    "Swedish"
+    "Korean"
    ],
    "ljud": [
-    "Italian",
-    "Spanish",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Beginnings",
-   "originaltitel": null,
-   "sas_kategori": "Drama",
-   "ar": 2026,
-   "langd_min": 96,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 6.7,
-   "imdb_roster": 966,
-   "imdb_id": "tt32144178",
-   "regissor": " Jeanette Nordahl",
-   "roller": [
-    "Trine Dyrholm",
-    "David Dencik",
-    "Johanne Louise Schmidt"
-   ],
-   "beskrivning": "Thomas and Ane, amid a divorce, haven't told their children. Ane suffers a stroke when Thomas move in with his girlfriend.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/932520e5-d95d-4938-ac66-ac8142aa7110-crop320x461.jpg",
-   "aldersgrans": "NR",
-   "barn": false,
-   "textning": [
-    "English"
-   ],
-   "ljud": [
-    "Danish"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -3289,7 +3695,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 24411,
+   "imdb_roster": 24422,
    "imdb_id": "tt7424200",
    "regissor": "Aaron Horvath, Peter Rida Michail",
    "roller": [
@@ -3307,16 +3713,16 @@
    "barn": false,
    "textning": [
     "Korean",
-    "English CC",
     "Japanese",
+    "English CC",
     "Chinese Simplified"
    ],
    "ljud": [
-    "Danish",
-    "English",
-    "English EAD",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "English EAD",
+    "Danish",
+    "English"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -3334,7 +3740,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 60243,
+   "imdb_roster": 60267,
    "imdb_id": "tt17527468",
    "regissor": "Emma Seligman",
    "roller": [
@@ -3351,11 +3757,11 @@
     "English CC"
    ],
    "ljud": [
-    "English",
-    "German",
-    "French",
+    "Spanish",
     "Italian",
-    "Spanish"
+    "French (Parisian)",
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -3373,7 +3779,7 @@
     "Thriller"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 174324,
+   "imdb_roster": 174596,
    "imdb_id": "tt9619824",
    "regissor": "Adam Stein, Zach Lipovsky",
    "roller": [
@@ -3394,11 +3800,11 @@
     "Swedish"
    ],
    "ljud": [
-    "Spanish",
-    "French",
-    "Italian",
+    "Spanish (Spain)",
     "English EAD",
     "German",
+    "Italian",
+    "French (Parisian)",
     "English"
    ],
    "tillganglig_fran": "2026-09-01",
@@ -3410,14 +3816,14 @@
   {
    "titel": "Lilo & Stitch",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Kids",
    "ar": 2025,
-   "langd_min": 108,
+   "langd_min": 90,
    "genre": [
     "Kids"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 99405,
+   "imdb_roster": 99468,
    "imdb_id": "tt11655566",
    "regissor": "Dean Fleischer Camp",
    "roller": [
@@ -3428,14 +3834,14 @@
     "Chris Sanders"
    ],
    "beskrivning": "Experience this live-action reimagining of the beloved animated classic.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/4cc3531c-c75f-4fdf-8b6d-7bb20539012c-LiloStitchkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/72c81424-c34f-4339-b33f-df66b181e40a-crop320x461.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
     "English CC",
-    "Japanese",
-    "Korean"
+    "Chinese Simplified",
+    "Korean",
+    "Japanese"
    ],
    "ljud": [
     "English",
@@ -3452,93 +3858,161 @@
    "ny": false
   },
   {
-   "titel": "Star Wars: The Mandalorian and Grogu",
+   "titel": "Two Seasons, Two Strangers",
    "originaltitel": null,
-   "sas_kategori": "Action",
+   "sas_kategori": "Drama",
    "ar": 2026,
-   "langd_min": 132,
+   "langd_min": 89,
    "genre": [
-    "Action & Adventure"
+    "Drama"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 123066,
-   "imdb_id": "tt30825738",
-   "regissor": "Jon Favreau",
+   "imdb_roster": 892,
+   "imdb_id": "tt37538491",
+   "regissor": "Sho Miyake",
    "roller": [
-    "Pedro Pascal",
-    "Jeremy Allen White",
-    "Brendan Wayne"
+    "Shim Eun-kyung",
+    "Shinichi Tsutsumi",
+    "Yuumi Kawai"
    ],
-   "beskrivning": "The Mandalorian and young Grogu embark on a mission to protect the galaxy.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5be03053-5e40-4811-b6c5-a8a12c2bcaf5-crop320x461.jpg",
+   "beskrivning": "In both summer and winter, separate encounters reflect how fleeting moments can leave lasting imprints.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/64b9825f-cfe0-4361-a09b-b9bd395503ee-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Korean",
-    "Norwegian",
-    "Swedish",
-    "Hindi",
-    "English CC",
-    "Danish",
+    "English",
     "Chinese Simplified"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
+    "Japanese"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "8-Bit Christmas",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2021,
+   "langd_min": 93,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 6.7,
+   "imdb_roster": 25670,
+   "imdb_id": "tt11540284",
+   "regissor": "Michael Dowse",
+   "roller": [
+    "Neil Patrick Harris",
+    "Winslow Fegley",
+    "June Diane Raphael",
+    "David Cross",
+    "Steve Zahn"
+   ],
+   "beskrivning": "8-Bit Christmas is a humorous and heartfelt look back at the adventures of childhood.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/54d6d09d-5ad6-4476-9d35-7e9681b0f429-8bitchristmas_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Korean",
     "Japanese",
+    "English CC",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "English EAD",
+    "Spanish (Spain)",
+    "Italian",
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "A Christmas Story Christmas",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2022,
+   "langd_min": 101,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 6.7,
+   "imdb_roster": 21867,
+   "imdb_id": "tt17220704",
+   "regissor": "Clay Kaytis",
+   "roller": [
+    "Peter Billingsley",
+    "Erinn Hayes",
+    "Julianna Layne",
+    "River Drosche",
+    "Scott Schwartz",
+    "R.D. Robb",
+    "Ian Petrella",
+    "Davis Murphy",
+    "Zack Ward",
+    "Julie Hagerty"
+   ],
+   "beskrivning": "Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/19068008-5fb7-464f-b93a-2790a3864186-crop320x461.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "English CC"
+   ],
+   "ljud": [
+    "French (Parisian)",
     "English",
     "German",
     "English EAD"
    ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
-   "titel": "Backrooms",
+   "titel": "Det nye år",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Comedy",
    "ar": 2026,
-   "langd_min": 110,
+   "langd_min": 93,
    "genre": [
-    "Horror"
+    "Comedy"
    ],
    "imdb_betyg": 6.7,
-   "imdb_roster": 239679,
-   "imdb_id": "tt26657236",
-   "regissor": "Kane Parsons",
+   "imdb_roster": 955,
+   "imdb_id": "tt38285001",
+   "regissor": "Paprika Stone",
    "roller": [
-    "Chiwetel Ejiofor",
-    "Renate Reinsve",
-    "Mark Duplass"
+    "Anders W. Berthelsen",
+    "Birgitte Hjort Sørensen",
+    "Lars Brygmann"
    ],
-   "beskrivning": "When struggling furniture salesman Clark discovers a hidden portal in the basement of his store, he becomes trapped in an infinite labyrinth of buzzing fluorescents and winding yellow halls.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5104f47d-08a8-44d6-999d-a562aaa2a515-crop320x461.jpg",
-   "aldersgrans": "R",
+   "beskrivning": "DET NYE ÅR paints a funny and heartwarming portrait of a small group of friends who, on the last evening of the year, must acknowledge that nothing will be quite the same as it used to be.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e4a014c1-8c6f-4280-b79c-931f085949a3-Detnyearkeyart.jpg",
+   "aldersgrans": "NR",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
-    "English CC",
-    "Danish",
-    "Chinese Traditional"
+    "English"
    ],
    "ljud": [
-    "English",
-    "Spanish",
-    "French",
-    "Italian"
+    "Danish"
    ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Smallfoot",
@@ -3550,7 +4024,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 46498,
+   "imdb_roster": 46513,
    "imdb_id": "tt6182908",
    "regissor": "Karey Kirkpatrick, Jason Reisig",
    "roller": [
@@ -3563,17 +4037,17 @@
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Korean",
-    "Japanese",
     "English CC",
+    "Japanese",
+    "Korean",
     "Chinese Simplified"
    ],
    "ljud": [
-    "Swedish",
-    "Norwegian",
     "English EAD",
     "Danish",
-    "English"
+    "English",
+    "Swedish",
+    "Norwegian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -3584,14 +4058,14 @@
   {
    "titel": "April 9th",
    "originaltitel": null,
-   "sas_kategori": "True Stories",
+   "sas_kategori": "Scandinavian movies",
    "ar": 2015,
    "langd_min": 89,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 7322,
+   "imdb_roster": 7326,
    "imdb_id": "tt3542188",
    "regissor": "Roni Ezra",
    "roller": [
@@ -3600,7 +4074,7 @@
     "Lars Mikkelsen"
    ],
    "beskrivning": "Early in the morning of April 9, 1940, the alarm goes off and the Danish army is put on high alert. The Germans have crossed the border and Denmark is at war with Europe's strongest military power.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/1e749a60-f2a7-46c1-8bc9-cef36a16197c-April9thkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5a2700a0-7750-4ccf-85c3-92bfac75de3f-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -3625,7 +4099,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 585,
+   "imdb_roster": 588,
    "imdb_id": "tt35115823",
    "regissor": "Rasmus A. Sivertsen",
    "roller": [
@@ -3640,8 +4114,8 @@
    "textning": [],
    "ljud": [
     "Swedish",
-    "Norwegian",
-    "Danish"
+    "Danish",
+    "Norwegian"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -3668,7 +4142,7 @@
     "Chanakan Rattana-Udom"
    ],
    "beskrivning": "Fren, an HR worker at a demanding company, secretly faces pregnancy and a difficult choice.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6cd6915f-3c91-48cf-b5a0-5d11a46334d3-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/54f9a0a2-0997-459b-b0d3-22b1ffca845b-HumanResourcekeyart.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -3693,7 +4167,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 2977,
+   "imdb_roster": 2984,
    "imdb_id": "tt32247943",
    "regissor": "Christian Petzold",
    "roller": [
@@ -3702,7 +4176,7 @@
     "Matthias Brandt"
    ],
    "beskrivning": "After her boyfriend dies in a car crash, piano student Laura finds refuge with a witness’s family, but grows suspicious.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6a14954f-be61-455c-871a-c7df6884dcc4-MiroirsNo3keyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/ac800e41-f2af-40f2-ad4b-f556cd820839-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -3727,7 +4201,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 2938,
+   "imdb_roster": 2939,
    "imdb_id": "tt26270862",
    "regissor": "Dag Johan Haugerud",
    "roller": [
@@ -3736,7 +4210,7 @@
     "Siri Forberg-Revisor"
    ],
    "beskrivning": "Unexpected encounters lead two married men to question sexuality, gender and their sense of self.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/35fb6752-cf87-41c5-8806-c21a0c98b4ad-Sexkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/0ef06a0b-6749-4cbe-8def-00d64147b692-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -3754,14 +4228,14 @@
   {
    "titel": "Last Breath",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "True Stories",
    "ar": 2025,
    "langd_min": 93,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 6.6,
-   "imdb_roster": 39650,
+   "imdb_roster": 39689,
    "imdb_id": "tt14403504",
    "regissor": "Alex Parkinson",
    "roller": [
@@ -3774,8 +4248,8 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC"
+    "English CC",
+    "Chinese Simplified"
    ],
    "ljud": [
     "English",
@@ -3788,181 +4262,92 @@
    "ny": false
   },
   {
-   "titel": "A Pale View of Hills",
+   "titel": "The Polar Express",
    "originaltitel": null,
-   "sas_kategori": "International",
-   "ar": 2025,
-   "langd_min": 123,
+   "sas_kategori": "Kids",
+   "ar": 2004,
+   "langd_min": 100,
    "genre": [
-    "Drama"
+    "Kids"
    ],
-   "imdb_betyg": 6.5,
-   "imdb_roster": 967,
-   "imdb_id": "tt33253688",
-   "regissor": "Kei Ishikawa",
+   "imdb_betyg": 6.6,
+   "imdb_roster": 275150,
+   "imdb_id": "tt0338348",
+   "regissor": "Robert Zemeckis",
    "roller": [
-    "Suzu Hirose",
-    "Fumi Nikaido",
-    "Yoh Yoshida"
+    "Tom Hanks",
+    "Nona Gaye",
+    "Peter Scolari",
+    "Michael Jeter",
+    "Eddie Deezen",
+    "Charles Fleischer"
    ],
-   "beskrivning": "As Niki explores her mother’s past, she discovers troubling inconsistencies between Etsuko’s mementoes and her recollections, leading her to question the truths hidden within their family story.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9610cf0c-8574-43fb-89b8-fc2eabb3e4ad-APaleViewofHillskeyart.jpg",
-   "aldersgrans": "PG-13",
+   "beskrivning": "On Christmas Eve, after the town has gone to sleep, a boy boards the mysterious train that waits for him—The Polar Express.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/0cd0ebeb-7b64-4705-8162-b93c93a7b0ca-thepolarexpress_microsite_poster.jpg",
+   "aldersgrans": "G",
    "barn": false,
    "textning": [
-    "English",
-    "Chinese Simplified"
+    "Korean",
+    "English CC",
+    "Chinese Traditional"
    ],
    "ljud": [
-    "Japanese"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Fantastic Beasts: The Crimes of Grindelwald",
-   "originaltitel": null,
-   "sas_kategori": "Adventure",
-   "ar": 2018,
-   "langd_min": 130,
-   "genre": [
-    "Action"
-   ],
-   "imdb_betyg": 6.5,
-   "imdb_roster": 336495,
-   "imdb_id": "tt4123430",
-   "regissor": "David Yates",
-   "roller": [
-    "Eddie Redmayne",
-    "Katherine Waterston",
-    "Dan Fogler",
-    "Alison Sudol",
-    "Ezra Miller",
-    "Zoë Kravitz"
-   ],
-   "beskrivning": "Lines are drawn as love and loyalty are tested, even among the truest friends and family, in a wizarding world.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/186d8e33-fe5d-4b99-b316-264c91e31bf7-fantasticbeaststhecrimesofgrindelwald_microsite_poster.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Chinese Simplified",
+    "English",
     "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
     "Norwegian",
     "Swedish"
    ],
-   "ljud": [
-    "English",
-    "German",
-    "English EAD",
-    "Italian",
-    "French",
-    "Spanish"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
-   "titel": "Solomamma",
+   "titel": "Sticky Notes",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "Romance",
    "ar": 2026,
-   "langd_min": 99,
+   "langd_min": 105,
    "genre": [
-    "Drama"
+    "Comedy"
    ],
-   "imdb_betyg": 6.5,
-   "imdb_roster": 465,
-   "imdb_id": "tt35485652",
-   "regissor": "Janicke Askevold",
+   "imdb_betyg": 6.6,
+   "imdb_roster": 231,
+   "imdb_id": "tt39379748",
+   "regissor": "Hella Joof",
    "roller": [
-    "Lisa Loven Kongsli",
-    "Herbert Nordrum",
-    "Nasrin Khusrawi"
+    "Iben Hjejle",
+    "Andrea Heick Gadeberg",
+    "Clint Ruben"
    ],
-   "beskrivning": "As Nora unexpectedly finds herself single at the age of 40, she opts for single motherhood with the help of a sperm donor.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/3143a58a-184b-4b9f-95f2-7f340db01cba-crop320x461.jpg",
+   "beskrivning": "Mona loves reading, and books are her refuge from life in the housing projects of The Modesty, where she has grown up with her mother Mømmer, whose hoarding disorder means she never throws anything away.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b51d1dbf-6017-4fb0-8865-bca66b55d39c-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
     "English"
    ],
    "ljud": [
-    "Norwegian"
+    "Danish"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Ad Astra",
-   "originaltitel": null,
-   "sas_kategori": "Sci-fi",
-   "ar": 2019,
-   "langd_min": 123,
-   "genre": [
-    "Science Fiction"
-   ],
-   "imdb_betyg": 6.5,
-   "imdb_roster": 286146,
-   "imdb_id": "tt2935510",
-   "regissor": "James Gray",
-   "roller": [
-    "Brad Pitt",
-    "Tommy Lee Jones",
-    "Ruth Negga",
-    "Liv Tyler",
-    "Donald Sutherland"
-   ],
-   "beskrivning": "An astronaut travels to the edges of the solar system to find his father.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e30554be-e84b-4bf5-8f09-71795adae20e-adastra_microsite_poster.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
-    "Korean",
-    "Norwegian",
-    "Swedish"
-   ],
-   "ljud": [
-    "English",
-    "German",
-    "English EAD",
-    "Spanish",
-    "Hindi",
-    "Italian",
-    "French"
-   ],
-   "tillganglig_fran": "2026-07-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Space Cowboys",
    "originaltitel": null,
-   "sas_kategori": "Drama",
+   "sas_kategori": "Sci-fi",
    "ar": 2000,
    "langd_min": 130,
    "genre": [
     "Science Fiction"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 90917,
+   "imdb_roster": 90937,
    "imdb_id": "tt0186566",
    "regissor": "Clint Eastwood",
    "roller": [
@@ -3986,8 +4371,8 @@
    "ljud": [
     "English",
     "German",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian",
     "Japanese"
    ],
@@ -4007,7 +4392,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 165535,
+   "imdb_roster": 165615,
    "imdb_id": "tt2854926",
    "regissor": "Jeff Tomsic",
    "roller": [
@@ -4021,18 +4406,18 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
+    "Japanese",
     "English CC",
-    "Japanese"
+    "Chinese Simplified"
    ],
    "ljud": [
-    "Korean",
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian",
+    "Korean"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -4050,7 +4435,7 @@
     "Romance"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 36040,
+   "imdb_roster": 36066,
    "imdb_id": "tt32063050",
    "regissor": "Michael Morris",
    "roller": [
@@ -4073,8 +4458,8 @@
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
     "German",
     "English"
@@ -4088,14 +4473,14 @@
   {
    "titel": "Mamma Mia!",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "Romance",
    "ar": 2008,
    "langd_min": 109,
    "genre": [
     "Romance"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 313590,
+   "imdb_roster": 313689,
    "imdb_id": "tt0795421",
    "regissor": "Phyllida Lloyd",
    "roller": [
@@ -4108,7 +4493,7 @@
     "Julie Walters"
    ],
    "beskrivning": "Sophie has just one wish to make her wedding perfect: to have her father walk her down the aisle. Now she just has to figure out who he is!",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/aea32edf-ed11-49fa-a3cf-3fdd41278da5-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/edd6a0a2-c734-4119-981d-763f31b40d34-MammaMiakeyart.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
@@ -4133,7 +4518,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 200719,
+   "imdb_roster": 200784,
    "imdb_id": "tt5884052",
    "regissor": "Rob Letterman",
    "roller": [
@@ -4152,21 +4537,21 @@
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Swedish",
     "Chinese Simplified",
-    "Norwegian",
-    "Japanese",
+    "Danish",
     "English CC",
-    "Danish"
+    "Japanese",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "English",
-    "German",
-    "English EAD",
-    "Spanish",
-    "French",
+    "Italian",
     "Hindi",
-    "Italian"
+    "English",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "German",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -4184,7 +4569,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 104937,
+   "imdb_roster": 105050,
    "imdb_id": "tt0899043",
    "regissor": "James Hawes",
    "roller": [
@@ -4193,25 +4578,25 @@
     "Caitríona Balfe"
    ],
    "beskrivning": "A CIA decoder hunts for his wife’s killers, his intelligence as his weapon.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/29b3adb9-5020-4371-87c9-da94eca64d82-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/33631092-69c5-4e86-b3cd-ba8b24ca4696-197bf779-ee6a-4e8d-a803-7722100f410b-TheAmateurkeyart.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
     "Hindi",
-    "Korean",
+    "English CC",
+    "Danish",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Chinese Simplified",
+    "Korean"
    ],
    "ljud": [
     "English",
     "German",
     "English EAD",
     "Japanese",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian"
    ],
    "tillganglig_fran": "2026-09-01",
@@ -4230,7 +4615,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 87507,
+   "imdb_roster": 87555,
    "imdb_id": "tt3513498",
    "regissor": "Mike Mitchell",
    "roller": [
@@ -4253,10 +4638,10 @@
    ],
    "ljud": [
     "Norwegian",
+    "Swedish",
     "English EAD",
     "Danish",
-    "English",
-    "Swedish"
+    "English"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
@@ -4274,7 +4659,7 @@
     "Comedy"
    ],
    "imdb_betyg": 6.5,
-   "imdb_roster": 11422,
+   "imdb_roster": 11427,
    "imdb_id": "tt10556022",
    "regissor": "Rachel Lee Goldenberg",
    "roller": [
@@ -4294,12 +4679,91 @@
     "Korean"
    ],
    "ljud": [
-    "English",
-    "Spanish",
-    "French"
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-10-24",
+   "ny": false
+  },
+  {
+   "titel": "Twisters",
+   "originaltitel": null,
+   "sas_kategori": "Thriller",
+   "ar": 2024,
+   "langd_min": 122,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 6.5,
+   "imdb_roster": 201990,
+   "imdb_id": "tt12584954",
+   "regissor": "Lee Isaac Chung",
+   "roller": [
+    "Daisy Edgar-Jones",
+    "Glen Powell",
+    "Anthony Ramos"
+   ],
+   "beskrivning": "Kate Cooper, Tyler Owens and their teams find themselves in the path of multiple storm systems.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/1235acc2-673d-4e7f-ab19-342a218ca79e-crop320x461.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-06-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Solomamma",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2026,
+   "langd_min": 99,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 6.5,
+   "imdb_roster": 469,
+   "imdb_id": "tt35485652",
+   "regissor": "Janicke Askevold",
+   "roller": [
+    "Lisa Loven Kongsli",
+    "Herbert Nordrum",
+    "Nasrin Khusrawi"
+   ],
+   "beskrivning": "As Nora unexpectedly finds herself single at the age of 40, she opts for single motherhood with the help of a sperm donor.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a347f0f4-3973-42a8-b2b2-c546c3364908-Solomammakeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Norwegian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
@@ -4324,16 +4788,189 @@
    "barn": false,
    "textning": [],
    "ljud": [
-    "English",
-    "Danish",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Danish",
+    "English"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
+  },
+  {
+   "titel": "Good Fortune",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2025,
+   "langd_min": 98,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 6.4,
+   "imdb_roster": 58262,
+   "imdb_id": "tt27543578",
+   "regissor": "Aziz Ansari",
+   "roller": [
+    "Seth Rogan",
+    "Keanu Reaves"
+   ],
+   "beskrivning": "A struggling man who gets his life swapped with his wealthy friend by a mystical force. He inherits his friend's lavish lifestyle, while his friend experiences his financial hardships.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/d1d98f7b-b5a1-4b47-8f4f-7c55fbe2ee61-GoodFortuneKeyart.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "Chinese Traditional",
+    "English CC"
+   ],
+   "ljud": [
+    "English",
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Disclosure Day",
+   "originaltitel": null,
+   "sas_kategori": "Sci-fi",
+   "ar": 2026,
+   "langd_min": 145,
+   "genre": [
+    "Science Fiction"
+   ],
+   "imdb_betyg": 6.4,
+   "imdb_roster": 179806,
+   "imdb_id": "tt15047880",
+   "regissor": "Steven Spielberg",
+   "roller": [
+    "Emily Blunt",
+    "Josh O'Connor",
+    "Colin Firth"
+   ],
+   "beskrivning": "The truth belongs to seven billion people in an original event film created and directed by Steven Spielberg.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/1bc02e5f-aeb0-4004-bf90-b0fd70f232c8-crop320x461.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Korean",
+    "English CC",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "English",
+    "Japanese",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
+    "German"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "The Bodyguard",
+   "originaltitel": null,
+   "sas_kategori": "Romance",
+   "ar": 1992,
+   "langd_min": 129,
+   "genre": [
+    "Romance"
+   ],
+   "imdb_betyg": 6.4,
+   "imdb_roster": 161068,
+   "imdb_id": "tt0103855",
+   "regissor": "Mick Jackson",
+   "roller": [
+    "Kevin Costner",
+    "Whitney Houston",
+    "Gary Kemp",
+    "Bill Cobbs",
+    "Michele Lamar Richards",
+    "Richard Schiff",
+    "Mike Starr",
+    "Nathaniel Parker",
+    "Debbie Reynolds",
+    "Charles Keating",
+    "Tony Pierce",
+    "Gerry Bamman",
+    "DeVaughn Nixon",
+    "Christopher Birt"
+   ],
+   "beskrivning": "When a beautiful superstar singer receives death threats, she hires the best bodyguard in the business.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/ba11bc3d-a0ee-4a19-b9f7-77c3f5f92f68-thebodyguard_microsite_poster.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "Chinese Traditional",
+    "English CC"
+   ],
+   "ljud": [
+    "Japanese",
+    "English",
+    "German",
+    "Spanish (Spain)",
+    "Italian",
+    "French (Parisian)"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Masters of the Universe",
+   "originaltitel": null,
+   "sas_kategori": "Action",
+   "ar": 2026,
+   "langd_min": 140,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 6.4,
+   "imdb_roster": 131971,
+   "imdb_id": "tt0427340",
+   "regissor": "Travis Knight",
+   "roller": [
+    "Nicholas Galitzine",
+    "Camila Mendes",
+    "Alison Brie"
+   ],
+   "beskrivning": "After tracking down the Sword of Power, Prince Adam returns to Eternia to face Skeletor and embrace his destiny as He-Man.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/af0aa389-1596-44b7-9b77-859d91b7a710-MastersOfTheUniversekeyart.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "Danish",
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
+   ],
+   "ljud": [
+    "French (Parisian)",
+    "Italian",
+    "Spanish (Spain)",
+    "English EAD",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "The Lord of the Rings: The War of the Rohirrim",
@@ -4345,7 +4982,7 @@
     "Action"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 42413,
+   "imdb_roster": 42449,
    "imdb_id": "tt14824600",
    "regissor": "Kenji Kamiyama",
    "roller": [
@@ -4358,21 +4995,21 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
-    "English CC",
+    "Chinese Simplified",
     "Danish",
-    "Chinese Simplified"
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -4383,14 +5020,14 @@
   {
    "titel": "Love on Trial",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Crime",
    "ar": 2026,
    "langd_min": 124,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 292,
+   "imdb_roster": 293,
    "imdb_id": "tt17499010",
    "regissor": "Kôji Fukada",
    "roller": [
@@ -4399,7 +5036,7 @@
     "Kenjiro Tsuda"
    ],
    "beskrivning": "Mai, a rising J-Pop idol, risks everything when forbidden love shatters her purity image, sparking a courtroom battle.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/63e2a12f-ed4f-4d37-bab2-38760101de40-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/dfb8a806-8918-420e-b1f1-60965f4c170a-LoveOnTrailkeyart.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -4417,14 +5054,14 @@
   {
    "titel": "The Little Things",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Crime",
    "ar": 2021,
    "langd_min": 128,
    "genre": [
     "Crime"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 148483,
+   "imdb_roster": 148626,
    "imdb_id": "tt10016180",
    "regissor": "John Lee Hancock",
    "roller": [
@@ -4439,20 +5076,20 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC",
-    "Japanese",
-    "Korean",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Chinese Simplified"
    ],
    "ljud": [
+    "German",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian",
     "English",
-    "German"
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -4463,14 +5100,14 @@
   {
    "titel": "They Will Kill You",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "New Releases",
    "ar": 2026,
    "langd_min": 94,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 55459,
+   "imdb_roster": 55774,
    "imdb_id": "tt31728330",
    "regissor": "Kirill Sokolov",
    "roller": [
@@ -4479,22 +5116,22 @@
     "Paterson Joseph"
    ],
    "beskrivning": "A young woman must survive the night in the Virgil, a twisted lair filled with deadly traps and a demonic cult determined to make her their next offering in a brutal, darkly comic fight.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/f38ff4f6-312e-4b21-9c6e-ec131d503b4e-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2bc185f5-aa67-44ac-8241-d1753b615f57-TheyWillKillYoukeyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "English CC",
-    "Danish",
     "Japanese",
+    "Chinese Traditional",
     "Swedish",
     "Norwegian",
     "Korean",
-    "Chinese Traditional"
+    "English CC",
+    "Danish"
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
     "German",
     "English"
@@ -4515,7 +5152,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 316,
+   "imdb_roster": 322,
    "imdb_id": "tt27552049",
    "regissor": "Maria Sodahl",
    "roller": [
@@ -4523,7 +5160,7 @@
     "Esben Smed"
    ],
    "beskrivning": "Mikkel and Louise take their daughters Sille and Ella on a well-deserved all-inclusive vacation to a Spanish island. Under the palm trees and with the Atlantic Ocean on the horizon, a week of peace and togetherness awaits. But the idyll is shattered when boats with refugees wash ashore on the beach.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/e01c4667-981a-4f79-96cd-c630cc524c0c-TheLastResortkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2ce6e5d4-38be-42b6-82a7-6fae7627607b-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -4548,7 +5185,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 95994,
+   "imdb_roster": 96307,
    "imdb_id": "tt17490712",
    "regissor": "Simon McQuoid",
    "roller": [
@@ -4561,70 +5198,24 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "English CC",
+    "Chinese Simplified",
     "Danish",
-    "Chinese Simplified"
+    "English CC",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
     "English",
     "German",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian",
     "Japanese"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "The Devil Wears Prada 2",
-   "originaltitel": null,
-   "sas_kategori": "New Releases",
-   "ar": 2026,
-   "langd_min": 119,
-   "genre": [
-    "Comedy"
-   ],
-   "imdb_betyg": 6.3,
-   "imdb_roster": 122147,
-   "imdb_id": "tt33612209",
-   "regissor": "David Frankel",
-   "roller": [
-    "Meryl Streep",
-    "Anne Hathaway",
-    "Emily Blunt"
-   ],
-   "beskrivning": "Miranda, Andy, Emily and Nigel reunite at Runway in this stylish sequel.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a4352e85-ca58-4ea3-981a-cdb614a0f60a-crop320x461.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Danish",
-    "English CC",
-    "Hindi",
-    "Korean",
-    "Norwegian",
-    "Swedish",
-    "Chinese Simplified"
-   ],
-   "ljud": [
-    "English EAD",
-    "Japanese",
-    "Spanish",
-    "French",
-    "Italian",
-    "English",
-    "German"
-   ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -4638,7 +5229,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.3,
-   "imdb_roster": 245312,
+   "imdb_roster": 245371,
    "imdb_id": "tt1365519",
    "regissor": "Roar Uthaug",
    "roller": [
@@ -4654,11 +5245,11 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "Swedish",
     "Norwegian",
     "Korean",
     "Japanese",
     "English CC",
-    "Swedish",
     "Danish",
     "Chinese Simplified"
    ],
@@ -4666,8 +5257,8 @@
     "Japanese",
     "English EAD",
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
     "English"
    ],
@@ -4678,67 +5269,51 @@
    "ny": false
   },
   {
-   "titel": "Fantastic Beasts: The Secrets of Dumbledore",
+   "titel": "Minions & Monsters",
    "originaltitel": null,
-   "sas_kategori": "Family",
-   "ar": 2022,
-   "langd_min": 143,
+   "sas_kategori": "Kids",
+   "ar": 2026,
+   "langd_min": 90,
    "genre": [
-    "Action"
+    "Kids"
    ],
-   "imdb_betyg": 6.2,
-   "imdb_roster": 196613,
-   "imdb_id": "tt4123432",
-   "regissor": "David Yates",
-   "roller": [
-    "Eddie Redmayne",
-    "Jude Law",
-    "Ezra Miller",
-    "Dan Fogler",
-    "Alison Sudol",
-    "Callum Turner",
-    "Jessica Williams",
-    "Katherine Waterston",
-    "Mads Mikkelsen"
-   ],
-   "beskrivning": "Professor Albus Dumbledore knows Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a3c8c709-f31d-447a-bfc4-9dbbe2c5cfa6-FantasticBeastsTheSecretsofDumbledorekeyart.jpg",
-   "aldersgrans": "PG-13",
+   "imdb_betyg": 6.3,
+   "imdb_roster": 36422,
+   "imdb_id": "tt32890033",
+   "regissor": "Pierre Coffin",
+   "roller": [],
+   "beskrivning": "When they accidentally unleash monsters, the Minions must give up the glamour of being Hollywood stars to save the world from the mayhem they created.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/654d2488-0693-40da-a1b9-175d0740f209-MinionsMonsterskeyart.jpg",
+   "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
     "English CC",
-    "Swedish",
-    "Norwegian",
-    "Korean",
     "Japanese"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
-    "German",
-    "English"
+    "English",
+    "Danish",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Grannfejden",
    "originaltitel": null,
-   "sas_kategori": "Scandinavian movies",
+   "sas_kategori": "Comedy",
    "ar": 2026,
    "langd_min": 113,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 6.2,
-   "imdb_roster": 922,
+   "imdb_roster": 928,
    "imdb_id": "tt35623371",
    "regissor": "Ulf Malmros",
    "roller": [
@@ -4763,46 +5338,48 @@
    "ny": false
   },
   {
-   "titel": "The Super Mario Galaxy Movie",
+   "titel": "Evil Dead Burn",
    "originaltitel": null,
    "sas_kategori": "New Releases",
    "ar": 2026,
-   "langd_min": 98,
+   "langd_min": 110,
    "genre": [
-    "Kids"
+    "Horror"
    ],
    "imdb_betyg": 6.2,
-   "imdb_roster": 78179,
-   "imdb_id": "tt28650488",
-   "regissor": "Pierre LeDuc, Fabian Polack, Aaron Horvath, Michael Jelenic",
+   "imdb_roster": 63224,
+   "imdb_id": "tt31170389",
+   "regissor": "Sébastien Vanicek",
    "roller": [
-    "Jack Black",
-    "Chris Pratt",
-    "Anya Taylor-Joy",
-    "Charlie Day"
+    "Souheila Yacoub",
+    "Tandi Wright",
+    "Hunter Doohan"
    ],
-   "beskrivning": "In The Super Mario Galaxy Movie, Mario and crew blast off on an epic journey and encounter new worlds, iconic characters, and unexpected threats.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6e50d1fa-ee77-4451-8641-808b43e54433-crop320x461.jpg",
-   "aldersgrans": "PG",
+   "beskrivning": "Evil Dead Burn unleashes a new chapter of demonic mayhem at a family reunion from hell.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/43e58854-0b4f-4bca-b205-768313a79106-EvilDeadBurnkeyart.jpg",
+   "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "English CC"
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
    ],
    "ljud": [
     "English",
-    "Swedish",
-    "Danish",
-    "English EAD",
-    "Japanese",
-    "Korean",
-    "Norwegian"
+    "German",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "\"Wuthering Heights\"",
@@ -4814,7 +5391,7 @@
     "Drama"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 95762,
+   "imdb_roster": 96003,
    "imdb_id": "tt32897959",
    "regissor": "Emerald Fennell",
    "roller": [
@@ -4823,24 +5400,24 @@
     "Hong Chau"
    ],
    "beskrivning": "A dark romance fueled by passion and madness.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/de86d274-026a-4e8a-8d49-02fa9592dd2c-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/027d2fd3-778b-45b8-83ba-8d6f9ea731de-WutheringHeights_2026_Poster.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Danish",
-    "English CC",
-    "Japanese",
     "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
     "Norwegian",
-    "Swedish"
+    "Swedish",
+    "Chinese Simplified"
    ],
    "ljud": [
-    "English",
+    "Spanish (Spain)",
     "German",
-    "Spanish",
-    "French",
-    "Italian"
+    "English",
+    "Italian",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2027-04-30",
@@ -4851,14 +5428,14 @@
   {
    "titel": "Am I OK?",
    "originaltitel": null,
-   "sas_kategori": "Pride Collection",
+   "sas_kategori": "Drama",
    "ar": 2024,
    "langd_min": 86,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 16161,
+   "imdb_roster": 16182,
    "imdb_id": "tt11225626",
    "regissor": "Tig Notaro, Stephanie Allynne",
    "roller": [
@@ -4871,25 +5448,25 @@
     "Tig Notaro"
    ],
    "beskrivning": "Lucy confides to Jane that she likes women.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/04a03923-63d2-4b8f-b663-8414cfc5df44-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/301a6b0e-5791-4149-b9bd-fc4c2634e35f-amiokkeyart.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "English CC",
-    "Swedish",
-    "Danish",
     "Norwegian",
+    "Danish",
+    "Swedish",
+    "English CC",
     "Korean",
     "Japanese",
     "Chinese Simplified"
    ],
    "ljud": [
-    "English",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "German",
-    "French",
-    "Spanish",
-    "English EAD",
-    "Italian"
+    "English",
+    "Italian",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -4907,7 +5484,7 @@
     "Horror"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 77043,
+   "imdb_roster": 77426,
    "imdb_id": "tt32612507",
    "regissor": "Lee Cronin",
    "roller": [
@@ -4920,20 +5497,20 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
-    "Japanese",
-    "English CC",
+    "Chinese Simplified",
     "Danish",
-    "Chinese Simplified"
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
+    "English",
     "German",
-    "English"
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
@@ -4944,14 +5521,14 @@
   {
    "titel": "Mortal Kombat",
    "originaltitel": null,
-   "sas_kategori": "Action",
+   "sas_kategori": "Sci-fi",
    "ar": 2021,
    "langd_min": 110,
    "genre": [
     "Action & Adventure"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 224528,
+   "imdb_roster": 224654,
    "imdb_id": "tt0293429",
    "regissor": "Simon McQuoid",
    "roller": [
@@ -4962,20 +5539,20 @@
     "Mehcad Brooks"
    ],
    "beskrivning": "MMA fighter Cole Young seeks out Earth's greatest champions.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/290dd9af-ac57-41c6-8d47-66af53a3b9f4-MortalKombat_2021_Poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/71d94af7-bca7-4686-a6c5-817184c459c6-crop320x461.jpg",
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Japanese",
-    "Korean",
+    "Chinese Simplified",
     "English CC",
-    "Chinese Simplified"
+    "Korean",
+    "Japanese"
    ],
    "ljud": [
     "English EAD",
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
     "English"
    ],
@@ -4988,41 +5565,41 @@
   {
    "titel": "Rampage",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Action",
    "ar": 2018,
    "langd_min": 107,
    "genre": [
     "Action & Adventure"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 205602,
+   "imdb_roster": 205656,
    "imdb_id": "tt2231461",
    "regissor": "Brad Peyton",
    "roller": [
-    "Dwayne Johnson",
+    "Malin Akerman",
     "Naomie Harris",
-    "Malin Akerman"
+    "Dwayne Johnson"
    ],
    "beskrivning": "Dwayne Johnson stars as primatologist Davis Okoye, who shares an unshakable bond with the incredibly rare albino gorilla who has been in his care since he rescued the young orphan from poachers.",
    "affisch_url": "https://cdn.touchmicrosite.com/content-images/173cb1b8-132b-47b4-8e34-2c58211b8117-Rampage_2018_Poster.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "English CC",
-    "Danish",
     "Chinese Simplified",
-    "Japanese",
-    "Korean",
+    "Danish",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "English CC",
+    "Japanese",
+    "Korean"
    ],
    "ljud": [
+    "English",
+    "German",
     "English EAD",
     "Italian",
-    "French",
-    "Spanish",
-    "English",
-    "German"
+    "French (Parisian)",
+    "Spanish (Spain)"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-02-28",
@@ -5040,7 +5617,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.1,
-   "imdb_roster": 35868,
+   "imdb_roster": 35894,
    "imdb_id": "tt3014284",
    "regissor": "Charlie Bean, Paul Fisher, Bob Logan",
    "roller": [
@@ -5062,11 +5639,11 @@
     "English CC"
    ],
    "ljud": [
-    "English",
-    "Danish",
-    "English EAD",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "English EAD",
+    "Danish",
+    "English"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
@@ -5084,7 +5661,7 @@
     "Romance"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 1923,
+   "imdb_roster": 1927,
    "imdb_id": "tt35495052",
    "regissor": null,
    "roller": [
@@ -5102,54 +5679,19 @@
     "Norwegian",
     "Korean",
     "Japanese",
-    "English CC",
-    "Danish"
+    "Danish",
+    "English CC"
    ],
    "ljud": [
     "English",
     "English EAD",
-    "Italian",
-    "French",
-    "Spanish"
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
    "tillganglig_fran": "2026-03-01",
    "tillganglig_till": "2027-02-28",
    "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "The Ice Tower",
-   "originaltitel": null,
-   "sas_kategori": "SAS Recommends",
-   "ar": 2025,
-   "langd_min": 118,
-   "genre": [
-    "Drama"
-   ],
-   "imdb_betyg": 6.0,
-   "imdb_roster": 1866,
-   "imdb_id": "tt28171985",
-   "regissor": "Lucile Hadzihalilovic",
-   "roller": [
-    "Marion Cotillard",
-    "Clara Pacini",
-    "August Diehl",
-    "Gaspar Noé"
-   ],
-   "beskrivning": "Jeanne, a 15-year-old orphan, is captivated by Cristina, the enigmatic star of a Snow Queen film shoot she witnesses.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/54cfbbdc-c0a9-4d3f-a436-aff9e26d1867-TheIceTowerkeyart.jpg",
-   "aldersgrans": "NR",
-   "barn": false,
-   "textning": [
-    "English"
-   ],
-   "ljud": [
-    "French"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -5163,7 +5705,7 @@
     "Action & Adventure"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 140121,
+   "imdb_roster": 140213,
    "imdb_id": "tt14539740",
    "regissor": "Adam Wingard",
    "roller": [
@@ -5176,19 +5718,19 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "Chinese Simplified",
     "Danish",
     "English CC",
-    "Korean",
-    "Swedish",
     "Norwegian",
-    "Chinese Simplified"
+    "Swedish",
+    "Korean"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
+    "Spanish (Spain)",
     "English EAD",
     "German",
+    "French (Parisian)",
+    "Italian",
     "English"
    ],
    "tillganglig_fran": "2026-09-01",
@@ -5200,14 +5742,14 @@
   {
    "titel": "Godzilla: King of the Monsters",
    "originaltitel": null,
-   "sas_kategori": "Sci-fi",
+   "sas_kategori": "Action",
    "ar": 2019,
    "langd_min": 132,
    "genre": [
     "Action & Adventure"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 233531,
+   "imdb_roster": 233615,
    "imdb_id": "tt3741700",
    "regissor": "Michael Dougherty",
    "roller": [
@@ -5221,21 +5763,21 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Japanese",
-    "Norwegian",
-    "Swedish",
     "Chinese Simplified",
     "Danish",
-    "English CC"
+    "English CC",
+    "Japanese",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "English EAD",
-    "Spanish",
-    "French",
-    "Italian",
     "Japanese",
+    "Italian",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-04-30",
@@ -5253,7 +5795,7 @@
     "Kids"
    ],
    "imdb_betyg": 6.0,
-   "imdb_roster": 1509,
+   "imdb_roster": 1512,
    "imdb_id": "tt28508231",
    "regissor": "Cecilia Aranovich Hamilton",
    "roller": [
@@ -5282,6 +5824,51 @@
    "ny": false
   },
   {
+   "titel": "Gail Daughtry and the Celebrity Sex Pass",
+   "originaltitel": null,
+   "sas_kategori": "New Releases",
+   "ar": 2026,
+   "langd_min": 93,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 6.0,
+   "imdb_roster": 5012,
+   "imdb_id": "tt36834010",
+   "regissor": "David Wain",
+   "roller": [
+    "John Slattery",
+    "Jon Hamm",
+    "Zoey Deutch"
+   ],
+   "beskrivning": "When her fiancée beds his “celebrity pass,” Gail sets out to even the scales with her own: Jon Hamm.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9377808e-d7bc-445f-9b49-0fd4cacc3c1c-crop320x461.jpg",
+   "aldersgrans": "R",
+   "barn": false,
+   "textning": [
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Chinese Simplified",
+    "Danish",
+    "Swedish"
+   ],
+   "ljud": [
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian",
+    "English",
+    "German"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "The Alto Knights",
    "originaltitel": null,
    "sas_kategori": "Biography",
@@ -5291,7 +5878,7 @@
     "Biography"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 23068,
+   "imdb_roster": 23116,
    "imdb_id": "tt21815562",
    "regissor": "Barry Levinson",
    "roller": [
@@ -5305,15 +5892,15 @@
    "barn": false,
    "textning": [
     "English CC",
-    "Korean",
-    "Norwegian",
+    "Japanese",
     "Swedish",
-    "Japanese"
+    "Norwegian",
+    "Korean"
    ],
    "ljud": [
     "Italian",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "German",
     "English"
    ],
@@ -5333,7 +5920,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 77864,
+   "imdb_roster": 77883,
    "imdb_id": "tt2452244",
    "regissor": "Todd Strauss-Schulson",
    "roller": [
@@ -5346,22 +5933,22 @@
     "Jennifer Saunders"
    ],
    "beskrivning": "New York City architect Natalie (Rebel Wilson) works hard to get noticed at her job but is more likely to be asked to deliver",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b4a6173a-7b3e-4db1-b1e8-612970364974-IsntItRomantic_2019_Poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/58b21e26-c780-42b0-b4cb-cae2bacf4ea7-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Korean",
     "Japanese",
+    "Korean",
     "English CC",
     "Chinese Simplified"
    ],
    "ljud": [
-    "English",
-    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -5379,7 +5966,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.9,
-   "imdb_roster": 10544,
+   "imdb_roster": 10552,
    "imdb_id": "tt23177868",
    "regissor": "Juan Jesús García Galocha",
    "roller": [
@@ -5395,21 +5982,21 @@
     "Juan Carlos Gustems"
    ],
    "beskrivning": "Three mummies end up in present-day London and embark on a journey in search of an old ring belonging to the Royal Family.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/fa9506c6-8e3d-4e81-9f61-6fd9925c657b-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/5668369f-337e-413a-84e1-7b11590afb2a-Mummies_2023_Poster.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "English CC",
-    "Japanese",
     "Korean",
+    "Japanese",
+    "English CC",
     "Chinese Simplified"
    ],
    "ljud": [
     "English",
     "Danish",
     "English EAD",
-    "Swedish",
-    "Norwegian"
+    "Norwegian",
+    "Swedish"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -5418,90 +6005,41 @@
    "ny": false
   },
   {
-   "titel": "Undertone",
+   "titel": "Sacramento",
    "originaltitel": null,
-   "sas_kategori": "Horror",
-   "ar": 2026,
-   "langd_min": 94,
-   "genre": [
-    "Horror"
-   ],
-   "imdb_betyg": 5.9,
-   "imdb_roster": 37204,
-   "imdb_id": "tt35892608",
-   "regissor": "Ian Tuason",
-   "roller": [
-    "Adam DiMarco",
-    "Nina Kiri"
-   ],
-   "beskrivning": "A podcast host covering spooky content moves in to care for her dying mother. When sent recordings of a pregnant couple's paranormal encounters, she discovers their story parallels hers, each tape pushing her toward madness.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/424482d0-b7df-4414-9e7b-5e90fbd2d59c-undertonekeyart.jpg",
-   "aldersgrans": "R",
-   "barn": false,
-   "textning": [
-    "English CC",
-    "Chinese Simplified",
-    "Danish",
-    "Korean",
-    "Japanese"
-   ],
-   "ljud": [
-    "English",
-    "Chinese Simplified",
-    "Italian",
-    "French",
-    "Spanish",
-    "German"
-   ],
-   "tillganglig_fran": "2026-09-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Ghosts of Girlfriends Past",
-   "originaltitel": null,
-   "sas_kategori": "Comedy",
-   "ar": 2009,
-   "langd_min": 101,
+   "sas_kategori": "Romance",
+   "ar": 2024,
+   "langd_min": 89,
    "genre": [
     "Comedy"
    ],
-   "imdb_betyg": 5.8,
-   "imdb_roster": 101596,
-   "imdb_id": "tt0821640",
-   "regissor": "Mark Waters",
+   "imdb_betyg": 5.9,
+   "imdb_roster": 4436,
+   "imdb_id": "tt13491834",
+   "regissor": null,
    "roller": [
-    "Matthew McConaughey",
-    "Jennifer Garner",
-    "Breckin Meyer",
-    "Lacey Chabert",
-    "Robert Forster",
-    "Anne Archer",
-    "Emma Stone",
-    "Michael Douglas"
+    "Kristen Stewart",
+    "Michael Angarano",
+    "Michael Cera"
    ],
-   "beskrivning": "A romantic comedy about a committed bachelor who gets a wake-up call from his late, legendary, hard-partying Uncle Wayne and his own Ghosts of Girlfriends Past.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/68b81e03-9ba6-4394-88ca-c226bac7579f-crop320x461.jpg",
-   "aldersgrans": "PG-13",
+   "beskrivning": "Rickey, an energetic free-spirit, convinces Glenn, an old friend who has settled into domestic life, to take an impromptu road trip to Sacramento.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/83e5e794-da17-49bf-8878-7c8a1a14c8f3-Sacramentokeyart.jpg",
+   "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Korean",
-    "English CC",
-    "Danish"
+    "English CC"
    ],
    "ljud": [
-    "French",
-    "German",
-    "English"
+    "English",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Trap",
@@ -5513,7 +6051,7 @@
     "Action"
    ],
    "imdb_betyg": 5.8,
-   "imdb_roster": 174604,
+   "imdb_roster": 174820,
    "imdb_id": "tt26753003",
    "regissor": "M. Night Shyamalan",
    "roller": [
@@ -5527,18 +6065,18 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Japanese",
+    "English",
     "Korean",
-    "English"
+    "Japanese"
    ],
    "ljud": [
-    "English",
-    "German",
-    "English EAD",
-    "Spanish",
-    "French",
+    "Japanese",
     "Italian",
-    "Japanese"
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-04-30",
@@ -5547,16 +6085,147 @@
    "ny": false
   },
   {
+   "titel": "Vaiana (2026)",
+   "originaltitel": null,
+   "sas_kategori": "Kids",
+   "ar": 2026,
+   "langd_min": 120,
+   "genre": [
+    "Kids"
+   ],
+   "imdb_betyg": 5.8,
+   "imdb_roster": 22806,
+   "imdb_id": "tt27419466",
+   "regissor": "Thomas Kail",
+   "roller": [
+    "Dwayne Johnson",
+    "Rena Owen",
+    "John Tui"
+   ],
+   "beskrivning": "In Disney’s live-action adventure, Vaiana seeks to save her people.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/7401d7f4-a28d-4f61-9b81-2740641fcd14-61657-5-9-2.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "English CC",
+    "Korean"
+   ],
+   "ljud": [
+    "English",
+    "Danish",
+    "English EAD",
+    "Japanese",
+    "Norwegian",
+    "Swedish"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Four Christmases",
+   "originaltitel": null,
+   "sas_kategori": "Romance",
+   "ar": 2008,
+   "langd_min": 89,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 5.8,
+   "imdb_roster": 89372,
+   "imdb_id": "tt0369436",
+   "regissor": "Seth Gordon",
+   "roller": [
+    "Vince Vaughn",
+    "Reese Witherspoon",
+    "Robert Duvall",
+    "Jon Favreau",
+    "Mary Steenburgen",
+    "Dwight Yoakam",
+    "Tim McGraw",
+    "Kristin Chenoweth",
+    "Jon Voight",
+    "Sissy Spacek"
+   ],
+   "beskrivning": "Reese Witherspoon stars with Vince Vaughn in a holiday comedy to which many children of divorced parents can relate.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/74b0df1e-444b-40fa-9ec4-e0dbe11b4c4b-crop320x461.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Japanese",
+    "English CC",
+    "Chinese Traditional"
+   ],
+   "ljud": [
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "German",
+    "English",
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "Supergirl",
+   "originaltitel": null,
+   "sas_kategori": "Adventure",
+   "ar": 2026,
+   "langd_min": 108,
+   "genre": [
+    "Action & Adventure"
+   ],
+   "imdb_betyg": 5.8,
+   "imdb_roster": 119774,
+   "imdb_id": "tt8814476",
+   "regissor": "Craig Gillespie",
+   "roller": [
+    "Milly Alcock",
+    "Matthias Schoenaerts",
+    "Eve Ridley"
+   ],
+   "beskrivning": "A heroine joins an ally on a quest for justice and revenge.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/4ed89a19-ea1d-4fe6-9559-72fa5b77f93d-Supergirlkeyart.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "Chinese Simplified",
+    "Danish",
+    "English CC",
+    "Japanese",
+    "Korean",
+    "Norwegian"
+   ],
+   "ljud": [
+    "English",
+    "German",
+    "Spanish (Spain)",
+    "French (Parisian)",
+    "Italian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-10-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "The Parenting",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "Pride Collection",
    "ar": 2025,
    "langd_min": 94,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 5.7,
-   "imdb_roster": 9544,
+   "imdb_roster": 9558,
    "imdb_id": "tt14041896",
    "regissor": "Craig Johnson",
    "roller": [
@@ -5569,18 +6238,18 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
+    "Japanese",
     "English CC",
     "Chinese Simplified",
     "Swedish",
-    "Norwegian",
-    "Japanese"
+    "Norwegian"
    ],
    "ljud": [
-    "French",
     "English",
     "German",
-    "Spanish",
-    "English EAD"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -5591,14 +6260,14 @@
   {
    "titel": "The Watchers",
    "originaltitel": null,
-   "sas_kategori": "Thriller",
+   "sas_kategori": "Horror",
    "ar": 2024,
    "langd_min": 101,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 5.7,
-   "imdb_roster": 74358,
+   "imdb_roster": 74426,
    "imdb_id": "tt26736843",
    "regissor": "Ishana Night Shyamalan",
    "roller": [
@@ -5612,16 +6281,16 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
+    "Chinese Traditional",
     "Korean",
     "Japanese",
-    "English CC",
-    "Chinese Traditional"
+    "English CC"
    ],
    "ljud": [
     "Japanese",
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
     "German",
     "English"
@@ -5633,16 +6302,67 @@
    "ny": false
   },
   {
+   "titel": "Fred Claus",
+   "originaltitel": null,
+   "sas_kategori": "Comedy",
+   "ar": 2007,
+   "langd_min": 115,
+   "genre": [
+    "Comedy"
+   ],
+   "imdb_betyg": 5.7,
+   "imdb_roster": 51405,
+   "imdb_id": "tt0486583",
+   "regissor": "David Dobkin",
+   "roller": [
+    "Vince Vaughn",
+    "Paul Giamatti",
+    "Miranda Richardson",
+    "John Michael Higgins",
+    "Elizabeth Banks",
+    "Rachel Weisz",
+    "Kathy Bates",
+    "Kevin Spacey",
+    "Chris \"Ludacris\" Bridges",
+    "Bobb'e J. Thompson"
+   ],
+   "beskrivning": "When Santa Claus' little known, older brother, Fred, returns to the North Pole, the black sheep of the family manages to create comic chaos that almost destroys Christmas.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b7b90759-6cbb-4ce4-b6ac-ba0355e325da-fredclaus_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Swedish",
+    "Norwegian",
+    "Korean",
+    "Japanese",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "French (Parisian)",
+    "Italian",
+    "Spanish (Spain)",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
    "titel": "Salem's Lot",
    "originaltitel": null,
-   "sas_kategori": "Enter At Your Own Risk",
+   "sas_kategori": "Thriller",
    "ar": 2024,
    "langd_min": 113,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 43483,
+   "imdb_roster": 43607,
    "imdb_id": "tt10245072",
    "regissor": "Gary Dauberman",
    "roller": [
@@ -5663,62 +6383,16 @@
     "Chinese Simplified"
    ],
    "ljud": [
-    "English",
-    "German",
-    "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
-   ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-12-31",
-   "finns_vid_avresa": true,
-   "forst_sedd": "2026-10-24",
-   "ny": false
-  },
-  {
-   "titel": "Captain America: Brave New World",
-   "originaltitel": null,
-   "sas_kategori": "Action",
-   "ar": 2025,
-   "langd_min": 120,
-   "genre": [
-    "Action & Adventure"
-   ],
-   "imdb_betyg": 5.6,
-   "imdb_roster": 196318,
-   "imdb_id": "tt14513804",
-   "regissor": "Julius Onah",
-   "roller": [
-    "Anthony Mackie",
-    "Harrison Ford",
-    "Danny Ramirez"
-   ],
-   "beskrivning": "Captain America must unravel a nefarious global plot and stop the Red Hulk.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/4c2c6578-a0b5-4c18-84f8-a5ac91204b6c-CaptainAmericaBraveNewWorld_microsite_poster.jpg",
-   "aldersgrans": "PG-13",
-   "barn": false,
-   "textning": [
-    "Korean",
-    "Japanese",
-    "English CC",
-    "Norwegian",
-    "Swedish",
-    "Chinese Simplified",
-    "Danish"
-   ],
-   "ljud": [
+    "French (Parisian)",
+    "Spanish (Spain)",
     "Italian",
-    "Hindi",
-    "French",
-    "Spanish",
     "English EAD",
     "German",
     "English"
    ],
-   "tillganglig_fran": "2026-07-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
+   "tillganglig_fran": "2026-05-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
   },
@@ -5732,7 +6406,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 24387,
+   "imdb_roster": 24404,
    "imdb_id": "tt1966359",
    "regissor": "Lawrence Sher",
    "roller": [
@@ -5746,18 +6420,18 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "English CC",
-    "Japanese",
+    "Chinese Simplified",
     "Korean",
-    "Chinese Simplified"
+    "Japanese",
+    "English CC"
    ],
    "ljud": [
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian",
-    "French",
-    "Spanish",
     "English",
-    "German",
-    "English EAD"
+    "German"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -5775,7 +6449,7 @@
     "Comedy"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 43400,
+   "imdb_roster": 43419,
    "imdb_id": "tt5619332",
    "regissor": "Ben Falcone",
    "roller": [
@@ -5793,19 +6467,19 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
     "Korean",
     "Japanese",
     "English CC",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "French",
-    "Spanish",
-    "English EAD",
+    "English",
     "German",
-    "English"
+    "English EAD",
+    "Spanish (Spain)",
+    "French (Parisian)"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -5823,7 +6497,7 @@
     "Horror"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 40052,
+   "imdb_roster": 40242,
    "imdb_id": "tt30851137",
    "regissor": "Maggie Gyllenhaal",
    "roller": [
@@ -5836,19 +6510,19 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Chinese Traditional",
-    "Swedish",
     "Norwegian",
     "Korean",
     "Japanese",
     "English CC",
+    "Chinese Traditional",
+    "Swedish",
     "Danish"
    ],
    "ljud": [
     "English",
     "German",
-    "Spanish",
-    "French",
+    "Spanish (Spain)",
+    "French (Parisian)",
     "Italian"
    ],
    "tillganglig_fran": "2026-07-01",
@@ -5867,7 +6541,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.6,
-   "imdb_roster": 33918,
+   "imdb_roster": 33942,
    "imdb_id": "tt3152592",
    "regissor": "Tony Cervone",
    "roller": [
@@ -5904,10 +6578,10 @@
     "English CC"
    ],
    "ljud": [
-    "Norwegian",
-    "English EAD",
-    "Danish",
     "English",
+    "Danish",
+    "English EAD",
+    "Norwegian",
     "Swedish"
    ],
    "tillganglig_fran": "2026-09-01",
@@ -5919,14 +6593,14 @@
   {
    "titel": "A Minecraft Movie",
    "originaltitel": null,
-   "sas_kategori": "Adventure",
+   "sas_kategori": "Kids",
    "ar": 2025,
    "langd_min": 110,
    "genre": [
     "Kids"
    ],
    "imdb_betyg": 5.5,
-   "imdb_roster": 170048,
+   "imdb_roster": 170239,
    "imdb_id": "tt3566834",
    "regissor": "Jared Hess",
    "roller": [
@@ -5936,23 +6610,23 @@
     "Jason Momoa"
    ],
    "beskrivning": "Four misfits are pulled through a portal into the Overworld.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6c8f7eb2-4486-4ae6-8e37-75d0ed8b6f37-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/a99ba6ab-c63d-477a-a229-c579f1f97ea9-AMinecraftMoviekeyart.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
-    "Swedish",
     "Chinese Simplified",
     "Danish",
     "English CC",
     "Japanese",
     "Korean",
-    "Norwegian"
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
-    "English EAD",
-    "Spanish",
-    "French",
     "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD",
     "German",
     "English"
    ],
@@ -5965,14 +6639,14 @@
   {
    "titel": "Sweethearts",
    "originaltitel": null,
-   "sas_kategori": "Comedy",
+   "sas_kategori": "Romance",
    "ar": 2024,
    "langd_min": 97,
    "genre": [
     "Comedy"
    ],
    "imdb_betyg": 5.5,
-   "imdb_roster": 5128,
+   "imdb_roster": 5131,
    "imdb_id": "tt14636214",
    "regissor": "Jordan Weiss",
    "roller": [
@@ -5985,20 +6659,20 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
-    "Swedish",
-    "Norwegian",
-    "Korean",
     "Japanese",
     "English CC",
     "Danish",
-    "Chinese Simplified"
+    "Chinese Simplified",
+    "Korean",
+    "Norwegian",
+    "Swedish"
    ],
    "ljud": [
+    "German",
     "English EAD",
     "Italian",
-    "French",
-    "Spanish",
-    "German",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English"
    ],
    "tillganglig_fran": "2026-09-01",
@@ -6006,6 +6680,84 @@
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
+  },
+  {
+   "titel": "Jack Frost",
+   "originaltitel": null,
+   "sas_kategori": "Kids",
+   "ar": 1998,
+   "langd_min": 95,
+   "genre": [
+    "Kids"
+   ],
+   "imdb_betyg": 5.5,
+   "imdb_roster": 45058,
+   "imdb_id": "tt0141109",
+   "regissor": "Troy Miller",
+   "roller": [
+    "Michael Keaton",
+    "Kelly Preston",
+    "Mark Addy",
+    "Joseph Cross"
+   ],
+   "beskrivning": "A year after his father's death on Christmas Day, a young boy builds a snowman and dresses it with his father's hat, scarf and gloves. That night, the boy's wish comes true: His father returns to life--as the snowman.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9d22170f-7755-43cd-9605-73b5b1f9c4aa-jackfrost_microsite_poster.jpg",
+   "aldersgrans": "PG",
+   "barn": false,
+   "textning": [
+    "Norwegian",
+    "Swedish",
+    "Korean",
+    "English CC",
+    "Danish",
+    "Chinese Simplified"
+   ],
+   "ljud": [
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "German",
+    "English"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
+  },
+  {
+   "titel": "One Night in Oslo",
+   "originaltitel": null,
+   "sas_kategori": "Drama",
+   "ar": 2014,
+   "langd_min": 80,
+   "genre": [
+    "Drama"
+   ],
+   "imdb_betyg": 5.5,
+   "imdb_roster": 648,
+   "imdb_id": "tt3115864",
+   "regissor": "Erik Svensson",
+   "roller": [
+    "Samakab Omar",
+    "Mohammed Alghoul",
+    "Thea Sofie Loch Næss"
+   ],
+   "beskrivning": "15-year-olds Sam and Amir have decided that this evening will be legendary. The guys have known each other almost their entire lives and see each other as brothers, but over the next 24 hours, everything changes.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/bd7439b6-fc98-44c0-a5d3-7d04b438ffa0-OneNightinOslokeyart.jpg",
+   "aldersgrans": "NR",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Norwegian"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-04-30",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "A Piece of My Heart",
@@ -6017,7 +6769,7 @@
     "Romance"
    ],
    "imdb_betyg": 5.3,
-   "imdb_roster": 1688,
+   "imdb_roster": 1689,
    "imdb_id": "tt8269566",
    "regissor": "Edward of Sillen",
    "roller": [
@@ -6026,7 +6778,7 @@
     "Johan Rheborg"
    ],
    "beskrivning": "Isabella's confidence slips when she learns that Simon, her great teenage love, is getting married to Isabella's childhood friend Molly, and that she is not even invited to the wedding. A part of Isabella's heart will always beat for Simon.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9e5d04fe-0072-4526-84d3-e12f06c72397-APieceofMyHeartkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b9dba015-3aa2-4599-ac9d-cdc0ee3b3926-crop320x461.jpg",
    "aldersgrans": "NR",
    "barn": false,
    "textning": [
@@ -6051,7 +6803,7 @@
     "Kids"
    ],
    "imdb_betyg": 5.3,
-   "imdb_roster": 44104,
+   "imdb_roster": 44121,
    "imdb_id": "tt1361336",
    "regissor": "Tim Story",
    "roller": [
@@ -6062,21 +6814,21 @@
     "Pallavi Sharda"
    ],
    "beskrivning": "One of the most beloved rivalries in history is reignited when Jerry moves into New York City's finest hotel.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/9ba3eb68-651d-4025-923b-e46ed4e03289-TomJerry_2021_Poster.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/6faaac1e-5380-4255-88d8-25ac44d8ece1-crop320x461.jpg",
    "aldersgrans": "PG",
    "barn": false,
    "textning": [
     "English CC",
-    "Japanese",
     "Korean",
+    "Japanese",
     "Chinese Simplified"
    ],
    "ljud": [
+    "Danish",
     "English EAD",
     "Norwegian",
     "Swedish",
-    "English",
-    "Danish"
+    "English"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2027-06-30",
@@ -6087,14 +6839,14 @@
   {
    "titel": "Joker: Folie à Deux",
    "originaltitel": null,
-   "sas_kategori": "Drama",
+   "sas_kategori": "Crime",
    "ar": 2024,
    "langd_min": 137,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 5.2,
-   "imdb_roster": 190131,
+   "imdb_roster": 190263,
    "imdb_id": "tt11315808",
    "regissor": "Todd Phillips",
    "roller": [
@@ -6112,18 +6864,18 @@
     "Chinese Simplified",
     "Danish",
     "English CC",
-    "Japanese",
-    "Korean",
+    "Swedish",
     "Norwegian",
-    "Swedish"
+    "Korean",
+    "Japanese"
    ],
    "ljud": [
-    "English",
-    "German",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "English EAD",
-    "Spanish",
-    "French",
-    "Italian"
+    "German",
+    "English"
    ],
    "tillganglig_fran": "2026-05-01",
    "tillganglig_till": "2026-12-31",
@@ -6141,7 +6893,7 @@
     "Romance"
    ],
    "imdb_betyg": 5.2,
-   "imdb_roster": 20430,
+   "imdb_roster": 20437,
    "imdb_id": "tt16280138",
    "regissor": "Steven Soderbergh",
    "roller": [
@@ -6153,20 +6905,20 @@
    "aldersgrans": "R",
    "barn": false,
    "textning": [
+    "Danish",
+    "English CC",
+    "Japanese",
     "Norwegian",
     "Swedish",
-    "Japanese",
-    "English CC",
-    "Danish",
     "Chinese Traditional"
    ],
    "ljud": [
-    "Italian",
-    "French",
-    "Spanish",
-    "English EAD",
     "German",
-    "English"
+    "English",
+    "Italian",
+    "French (Parisian)",
+    "Spanish (Spain)",
+    "English EAD"
    ],
    "tillganglig_fran": "2026-07-01",
    "tillganglig_till": "2026-12-31",
@@ -6177,7 +6929,7 @@
   {
    "titel": "Meg 2: The Trench",
    "originaltitel": null,
-   "sas_kategori": "Action",
+   "sas_kategori": "Adventure",
    "ar": 2023,
    "langd_min": 116,
    "genre": [
@@ -6186,7 +6938,7 @@
     "Fantasy"
    ],
    "imdb_betyg": 5.0,
-   "imdb_roster": 106058,
+   "imdb_roster": 106100,
    "imdb_id": "tt9224104",
    "regissor": "Ben Wheatley",
    "roller": [
@@ -6203,15 +6955,15 @@
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Chinese Simplified",
-    "Japanese",
+    "English",
     "Korean",
-    "English"
+    "Japanese",
+    "Chinese Simplified"
    ],
    "ljud": [
     "Italian",
-    "French",
-    "Spanish",
+    "French (Parisian)",
+    "Spanish (Spain)",
     "German",
     "English"
    ],
@@ -6220,6 +6972,40 @@
    "finns_vid_avresa": true,
    "forst_sedd": "2026-10-24",
    "ny": false
+  },
+  {
+   "titel": "Param Sundari",
+   "originaltitel": null,
+   "sas_kategori": "International movies",
+   "ar": 2025,
+   "langd_min": 136,
+   "genre": [
+    "Romance"
+   ],
+   "imdb_betyg": 5.0,
+   "imdb_roster": 53931,
+   "imdb_id": "tt33996113",
+   "regissor": "Tushar Jalota",
+   "roller": [
+    "Sidharth Malhotra",
+    "Janhvi Kapoor",
+    "Sanjay Kapoor"
+   ],
+   "beskrivning": "In Kerala's picturesque backwaters, a North Indian and South Indian find unexpected love. Their cultural differences spark a hilarious and chaotic romance, full of twists and turns. Two diverse worlds collide in a heartwarming story.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/2884dfee-f324-45ff-9276-ea8687646011-paramsundari_750x1080.jpg",
+   "aldersgrans": "PG-13",
+   "barn": false,
+   "textning": [
+    "English"
+   ],
+   "ljud": [
+    "Hindi"
+   ],
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2026-12-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   },
   {
    "titel": "Kraken",
@@ -6231,7 +7017,7 @@
     "Thriller"
    ],
    "imdb_betyg": 4.9,
-   "imdb_roster": 7161,
+   "imdb_roster": 7229,
    "imdb_id": "tt19838566",
    "regissor": "Paul Eye",
    "roller": [
@@ -6257,14 +7043,14 @@
   {
    "titel": "Karada Sagashi: The Last Night",
    "originaltitel": null,
-   "sas_kategori": "International movies",
+   "sas_kategori": "Thriller",
    "ar": 2025,
    "langd_min": 94,
    "genre": [
     "Thriller"
    ],
    "imdb_betyg": 4.8,
-   "imdb_roster": 537,
+   "imdb_roster": 538,
    "imdb_id": "tt38219225",
    "regissor": "Eiichirô Hasumi",
    "roller": [
@@ -6273,12 +7059,12 @@
     "Kaito Sakurai"
    ],
    "beskrivning": "After a girl vanishes during a cursed game, her friend faces a repeating night of terror in a haunted amusement park, battling a relentless Red Person to break the cycle and save her.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/ebd72dea-51f3-47b3-84ae-ac1c88a2e3cd-KaradaSagashiTheLastNightkeyart.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b2fd54a0-df7d-4cbe-be0c-30381d6adb58-crop320x461.jpg",
    "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "Korean",
     "English CC",
+    "Korean",
     "Chinese Simplified"
    ],
    "ljud": [
@@ -6293,14 +7079,14 @@
   {
    "titel": "Day of Reckoning",
    "originaltitel": null,
-   "sas_kategori": "Action",
+   "sas_kategori": "Crime",
    "ar": 2025,
    "langd_min": 106,
    "genre": [
     "Crime"
    ],
    "imdb_betyg": 4.5,
-   "imdb_roster": 1354,
+   "imdb_roster": 1355,
    "imdb_id": "tt35317668",
    "regissor": "Shaun Silva",
    "roller": [
@@ -6330,14 +7116,14 @@
   {
    "titel": "Casa Grande: The Movie",
    "originaltitel": null,
-   "sas_kategori": "New Releases",
+   "sas_kategori": "International movies",
    "ar": 2026,
    "langd_min": 113,
    "genre": [
     "Drama"
    ],
    "imdb_betyg": 4.5,
-   "imdb_roster": 260,
+   "imdb_roster": 261,
    "imdb_id": "tt35887288",
    "regissor": "Juan Pablo Arias Muñoz",
    "roller": [
@@ -6374,7 +7160,7 @@
     "Kids"
    ],
    "imdb_betyg": 4.5,
-   "imdb_roster": 88986,
+   "imdb_roster": 89013,
    "imdb_id": "tt3554046",
    "regissor": "Malcolm D. Lee",
    "roller": [
@@ -6385,18 +7171,18 @@
     "Cedric Joe"
    ],
    "beskrivning": "It's Tunes versus Goons in the highest-stakes challenge of his life, that will redefine LeBron's bond with his son and shine a light on the power of being yourself.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/8479f3d1-6cbd-4854-827a-8d6d240b1623-crop320x461.jpg",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/422be4e1-8b62-492d-83b3-46199d122db9-fullres-SpaceJam220212065438TileBurnedInenUS2000x3000.jpg",
    "aldersgrans": "PG",
    "barn": true,
    "textning": [
     "English CC"
    ],
    "ljud": [
+    "Swedish",
     "English",
     "Danish",
     "English EAD",
-    "Norwegian",
-    "Swedish"
+    "Norwegian"
    ],
    "tillganglig_fran": "2026-09-01",
    "tillganglig_till": "2027-08-31",
@@ -6414,7 +7200,7 @@
     "Horror"
    ],
    "imdb_betyg": 4.4,
-   "imdb_roster": 2227,
+   "imdb_roster": 2231,
    "imdb_id": "tt32276246",
    "regissor": "Juan Pablo Arias Munoz",
    "roller": [
@@ -6444,39 +7230,40 @@
    "ny": false
   },
   {
-   "titel": "Dreams",
+   "titel": "Double Trouble",
    "originaltitel": null,
-   "sas_kategori": "Drama",
-   "ar": 1990,
-   "langd_min": 119,
+   "sas_kategori": "Comedy",
+   "ar": 2026,
+   "langd_min": 89,
    "genre": [
-    "Drama"
+    "Comedy"
    ],
    "imdb_betyg": 0.0,
    "imdb_roster": null,
-   "imdb_id": null,
-   "regissor": "Akira Kurosawa",
+   "imdb_id": "tt43706171",
+   "regissor": "Shaun Paul Piccinino",
    "roller": [
-    "Akira Terao",
-    "Martin Scorsese",
-    "Mitsunori Isaki"
+    "Madeleine McGraw",
+    "Violet McGraw",
+    "Azizi Donnelly"
    ],
-   "beskrivning": "Director Akira Kurosawa tells a vivid story of life, loss and renewal through a series of eight dreams.",
-   "affisch_url": "https://cdn.touchmicrosite.com/content-images/b883ff89-a724-4035-9628-144e01525374-Dreamskeyart.jpg",
-   "aldersgrans": "PG",
+   "beskrivning": "Two sisters land in a Vegas Christmas heist caper.",
+   "affisch_url": "https://cdn.touchmicrosite.com/content-images/3d29c273-e044-4dee-b3ab-3aa7036688a4-DoubleTroublekeyart.jpg",
+   "aldersgrans": "PG-13",
    "barn": false,
    "textning": [
-    "English"
+    "English CC",
+    "Japanese",
+    "Korean"
    ],
    "ljud": [
-    "French",
-    "Japanese"
+    "English"
    ],
-   "tillganglig_fran": "2026-05-01",
-   "tillganglig_till": "2026-10-31",
-   "finns_vid_avresa": false,
-   "forst_sedd": "2026-10-24",
-   "ny": false
+   "tillganglig_fran": "2026-11-01",
+   "tillganglig_till": "2027-10-31",
+   "finns_vid_avresa": true,
+   "forst_sedd": "2026-11-02",
+   "ny": true
   }
  ]
 }
